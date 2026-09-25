@@ -1,0 +1,2986 @@
+[
+  {
+    "index": 1,
+    "speaker": "Host",
+    "english": "Back in 2019, I published a book called Digital Minimalism. It argued that we should be much more intentional about what digital technologies we use and how we use them. Now, when I started working on the idea for this book, we were still in the tail end of that golden age of social media, where we still saw these devices as offering a societal good, a sort of inevitable evolution of the town square that would ultimately empower us all. But by the time the book actually came out, people were beginning to get fed up, which turned out to be great timing for me.",
+    "bulgarian_reference": "Още през 2019 г. издадох книга, която се казва „Дигитален минимализъм“. В нея твърдях, че трябва да сме много по-съзнателни за това какви дигитални технологии използваме и как ги използваме. Когато започнах да работя по идеята за книгата, още бяхме в края на онзи златен век на социалните мрежи, когато гледахме на тези устройства като на нещо полезно за обществото – един вид неизбежна еволюция на градския площад, която в крайна сметка щеше да даде сила на всички ни. Но докато книгата излезе, на хората вече им беше дошло до гуша, което се оказа чудесен момент за мен.",
+    "grammar_notes": [
+      "Aorist vs imperfect: „издадох“, „започнах“, „излезе“ are single completed events (aorist); „твърдях“, „бяхме“, „гледахме“ describe ongoing states in the past (imperfect).",
+      "„щеше да даде“ is the future-in-the-past: щеше + да + present form = 'would (later) give'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "издам / издавам",
+        "en": "to publish",
+        "note": "perfective / imperfective; also 'to release'"
+      },
+      {
+        "bg": "съзнателен",
+        "en": "intentional, conscious",
+        "note": "feminine съзнателна; here plural comparative по-съзнателни"
+      },
+      {
+        "bg": "устройство",
+        "en": "device",
+        "note": "neuter"
+      },
+      {
+        "bg": "в крайна сметка",
+        "en": "ultimately, in the end",
+        "note": "very common fixed phrase"
+      },
+      {
+        "bg": "дошло ми е до гуша",
+        "en": "I'm fed up",
+        "note": "literally 'it has come up to my throat'; dative clitic changes: на хората им е дошло до гуша"
+      }
+    ],
+    "background": "Cal Newport is a computer science professor at Georgetown University. His 2019 book 'Digital Minimalism' argues for deliberately choosing a small set of technologies that support your values."
+  },
+  {
+    "index": 2,
+    "speaker": "Host",
+    "english": "That book became my first New York Times bestseller, and it led to opportunities that I never would have previously imagined for myself. But here's the thing. A lot has changed since 2019. Back then, social media meant Twitter, Facebook, and that old version of Instagram where you mainly just followed creators that you cared about. Today's social media, by contrast, has become a race to the bottom of the brainstem, as every service is trying to copy the highly addictive, algorithmically optimized short-form strategy of TikTok.",
+    "bulgarian_reference": "Тази книга стана първият ми бестселър в класацията на „Ню Йорк Таймс“ и ми донесе възможности, каквито преди никога не бих си представил. Но ето каква е работата. От 2019 г. насам много неща се промениха. Тогава социални мрежи означаваше Туитър, Фейсбук и онази стара версия на Инстаграм, в която основно следваш създатели на съдържание, които те интересуват. Днешните социални мрежи, за разлика от това, са се превърнали в надпревара към дъното на мозъчния ствол, защото всяка услуга се опитва да копира силно пристрастяващата стратегия на ТикТок – кратки видеа, оптимизирани от алгоритъма.",
+    "grammar_notes": [
+      "„не бих си представил“: conditional mood = бих + past participle („представил“), 'I would not have imagined'. The negation не comes before бих.",
+      "„първият ми бестселър“: with a possessive clitic (ми), the definite article goes on the first word – първият, not бестселърът."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "превърна се / превръщам се в",
+        "en": "to turn into, to become",
+        "note": "perfective / imperfective; always with „в“"
+      },
+      {
+        "bg": "надпревара",
+        "en": "race, competition",
+        "note": "feminine"
+      },
+      {
+        "bg": "пристрастяващ",
+        "en": "addictive",
+        "note": "from пристрастя се = to get addicted; пристрастяване = addiction"
+      },
+      {
+        "bg": "създател на съдържание",
+        "en": "content creator",
+        "note": "social media term; many also just say „криейтър“"
+      },
+      {
+        "bg": "ето каква е работата",
+        "en": "here's the thing",
+        "note": "literally 'here's what the matter is'"
+      }
+    ],
+    "background": "'A race to the bottom of the brain stem' is a phrase popularised by former Google design ethicist Tristan Harris, meaning apps compete to trigger our most primitive impulses."
+  },
+  {
+    "index": 3,
+    "speaker": "Host",
+    "english": "Existing global conversation platforms like Twitter, now called X, have given up any illusions of being a global town square and are really now just serving up, I don't know, straight-up gonzo garbage for the most part. And then there's AI, which wasn't on my radar at all in 2019, but today is increasingly threatening to corrupt or co-opt every last occasion we might actually try to use our brains for original thinking. This all points towards a key question. Is it still possible to be a digital minimalist in 2026? And if so, what has to change about this philosophy to keep it relevant?",
+    "bulgarian_reference": "Съществуващите платформи за глобален разговор, като Туитър, който сега се казва Х, са се отказали от всякакви илюзии, че са световен градски площад, и в момента общо взето поднасят, не знам, откровен, безумен боклук. А после идва и изкуственият интелект, който през 2019 г. изобщо не беше в полезрението ми, но днес все повече заплашва да развали или да обсеби всеки последен случай, в който бихме могли наистина да използваме мозъка си за оригинално мислене. Всичко това води до един ключов въпрос. Възможно ли е още да си дигитален минималист през 2026 г.? И ако да, какво трябва да се промени в тази философия, за да остане актуална?",
+    "grammar_notes": [
+      "„бихме могли“: conditional of мога, 'we could / might'. Same pattern as бих + participle, here in the 1st person plural.",
+      "„Възможно ли е…?“: the question particle ли goes right after the word being asked about, here „възможно“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "откажа се / отказвам се от",
+        "en": "to give up (on)",
+        "note": "perfective / imperfective; always with „от“"
+      },
+      {
+        "bg": "заплашвам",
+        "en": "to threaten",
+        "note": "imperfective; perfective: заплаша"
+      },
+      {
+        "bg": "полезрение",
+        "en": "field of view",
+        "note": "neuter; „не е в полезрението ми“ = it's not on my radar"
+      },
+      {
+        "bg": "актуален",
+        "en": "relevant, current, up to date",
+        "note": "false friend: it does NOT mean 'actual' (действителен)"
+      }
+    ],
+    "background": "Twitter was bought by Elon Musk in 2022 and renamed X. 'Gonzo' here means wild and unhinged."
+  },
+  {
+    "index": 4,
+    "speaker": "Host",
+    "english": "Well, it's Monday, which means it's time for an advice episode of this show, which is the perfect opportunity to go searching for some answers. All right, here's the plan. It turns out that there's a popular subreddit dedicated to all things digital minimalism. So we recently read through a bunch of recent posts, seeking those that describe specific suggestions or experiments that people have tried within the last few months to better embrace digital minimalism in our current moment. We ended up surfacing six interesting practical suggestions.",
+    "bulgarian_reference": "Е, понеделник е, което значи, че е време за епизод със съвети в това предаване – идеалната възможност да потърсим отговори. Добре, ето какъв е планът. Оказва се, че има популярен субредит, посветен на всичко, свързано с дигиталния минимализъм. Затова наскоро прегледахме куп скорошни публикации, търсейки такива, в които хората описват конкретни предложения или експерименти, които са пробвали през последните няколко месеца, за да прегърнат по-добре дигиталния минимализъм в днешно време. Накрая открихме шест интересни практични предложения.",
+    "grammar_notes": [
+      "„търсейки“ is a verbal adverb (-йки / -айки), 'while searching'. It never changes form.",
+      "„Оказва се, че…“: reflexive се gives the impersonal 'it turns out that…'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "посветен на",
+        "en": "dedicated to",
+        "note": "participle of посветя = to dedicate"
+      },
+      {
+        "bg": "куп",
+        "en": "a bunch, a pile",
+        "note": "masculine; colloquial „куп неща“ = lots of things"
+      },
+      {
+        "bg": "публикация",
+        "en": "post (online)",
+        "note": "feminine; also 'publication'; many say „пост“ too"
+      },
+      {
+        "bg": "пробвам",
+        "en": "to try, to test",
+        "note": "colloquial; used for both aspects; neutral synonym: опитам / опитвам"
+      }
+    ],
+    "background": "Deep Questions releases a 'Monday Advice' episode each week. A subreddit is a topic forum on Reddit, here r/digitalminimalism."
+  },
+  {
+    "index": 5,
+    "speaker": "Host",
+    "english": "And I'm going to go through these one by one. And because I'm a professor and I can't help it, I will give each a letter grade to indicate how much I agree with it. And then once we're done reviewing the best suggestions from other people, I'll present my own proposal. I've been thinking a lot recently about what I would add. If I republished this book today, what would I put in a new chapter? And I will explain to you today my current thinking on what I would add to digital minimalism.",
+    "bulgarian_reference": "Ще ги разгледам едно по едно. И понеже съм професор и не мога да се сдържа, ще дам на всяко оценка като в училище, за да покажа доколко съм съгласен с него. А след като приключим с най-добрите предложения на другите хора, ще представя моето собствено. Напоследък много мисля какво бих добавил. Ако преиздам тази книга днес, какво бих сложил в нова глава? И днес ще ви обясня какво мисля в момента, че бих добавил към дигиталния минимализъм.",
+    "grammar_notes": [
+      "„след като приключим“ / „ако преиздам“: after conjunctions like след като, ако, когато Bulgarian uses the perfective present for a future or hypothetical event.",
+      "„Ще ги разгледам“: the object clitic ги comes right after ще and before the verb."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "сдържа се / сдържам се",
+        "en": "to hold oneself back",
+        "note": "„не мога да се сдържа“ = I can't help it"
+      },
+      {
+        "bg": "оценка",
+        "en": "grade, mark; assessment",
+        "note": "feminine"
+      },
+      {
+        "bg": "глава",
+        "en": "chapter",
+        "note": "feminine; also means 'head'"
+      },
+      {
+        "bg": "напоследък",
+        "en": "lately, recently",
+        "note": ""
+      }
+    ],
+    "background": "Cal grades with US letter grades (A best). The Bulgarian version uses the Bulgarian school scale instead, where 6 („шестица“) is the top grade and 2 („двойка“) is a fail."
+  },
+  {
+    "index": 6,
+    "speaker": "Host",
+    "english": "All right. So if you feel like the time is right for you to declare independence over your devices and take back control of your life, then this episode is for you. As always, I'm Cal Newport, and this is Deep Questions, the show for people seeking depth in a distracted world. All right, let's dive in here.",
+    "bulgarian_reference": "Добре. Така че ако усещате, че е дошъл моментът да обявите независимост от устройствата си и да си върнете контрола над живота си, този епизод е за вас. Както винаги, аз съм Кал Нюпорт и това е „Дълбоки въпроси“ – предаването за хора, които търсят дълбочина в един разсеян свят. Добре, да започваме.",
+    "grammar_notes": [
+      "„да си върнете“: the dative clitic си means 'for yourselves / back to yourselves' – 'take back (for yourself)'.",
+      "„да започваме“: да + imperfective 1st person plural works like 'let's…' – a friendly invitation."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "обявя / обявявам",
+        "en": "to declare, to announce",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "независимост",
+        "en": "independence",
+        "note": "feminine"
+      },
+      {
+        "bg": "разсеян",
+        "en": "distracted, absent-minded",
+        "note": "разсейване = distraction"
+      },
+      {
+        "bg": "дълбочина",
+        "en": "depth",
+        "note": "feminine"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 7,
+    "speaker": "Host",
+    "english": "As mentioned, the goal is to review the six most interesting pieces of practical advice we discovered reading through recent posts on the digital minimalism subreddit. I'm going to grade each piece of advice as follows. An A means that I like it and heavily recommend it. A B means that the advice has some good elements, but there might be some other aspects that I might tweak or improve before putting it into action.",
+    "bulgarian_reference": "Както казах, целта е да прегледаме шестте най-интересни практични съвета, които открихме, докато четяхме скорошни публикации в субредита за дигитален минимализъм. Ще оценявам всеки съвет така. Шестица означава, че ми харесва и горещо го препоръчвам. Петица означава, че в съвета има добри елементи, но може да има и неща, които бих коригирал или подобрил, преди да го приложа на практика.",
+    "grammar_notes": [
+      "„шестте“: numbers take the article too – шест → шестте ('the six'). After a number, masculine nouns take the count form in -а: шест съвета.",
+      "„докато четяхме“: imperfect after докато for an action in progress ('while we were reading')."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "препоръчам / препоръчвам",
+        "en": "to recommend",
+        "note": "„горещо препоръчвам“ = I highly recommend"
+      },
+      {
+        "bg": "приложа / прилагам",
+        "en": "to apply, to put into practice",
+        "note": "„прилагам на практика“ = put into action"
+      },
+      {
+        "bg": "коригирам",
+        "en": "to adjust, to tweak",
+        "note": "loanword, both aspects"
+      },
+      {
+        "bg": "шестица / петица",
+        "en": "a six / a five (school grades)",
+        "note": "feminine nouns; 6 is the top grade in Bulgarian schools"
+      }
+    ],
+    "background": "In the Bulgarian version Cal's letter grades become Bulgarian school grades: A = шестица (6), B = петица (5), C = четворка (4), D = двойка (2)."
+  },
+  {
+    "index": 8,
+    "speaker": "Host",
+    "english": "C means I'm indifferent. It might help, it might not. It's probably not going to hurt, but it wouldn't be something I would rush to recommend. And then a D would mean stay away. All right, that'll be our letter grading scale. Once we've gone through our six suggestions, I'll then give you my missing chapter, my own missing chapter for digital minimalism. All right, so let's jump in here.",
+    "bulgarian_reference": "Четворка означава, че ми е безразлично. Може да помогне, може и да не помогне. Вероятно няма да навреди, но не бих бързал да го препоръчам. А двойка би означавала „стойте настрана“. Добре, това ще е скалата ни за оценяване. След като минем през шестте предложения, ще ви дам моята липсваща глава – моята собствена липсваща глава за дигиталния минимализъм. Добре, хайде да скочим направо.",
+    "grammar_notes": [
+      "„няма да навреди“: the negative future is няма да + present form, not *не ще.",
+      "„ми е безразлично“: dative clitic + е + neuter adjective = 'it is indifferent to me'; same pattern as „скучно ми е“.",
+      "„двойка би означавала“: the past participle agrees with the feminine subject двойка (-ла)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "навредя / вреждам",
+        "en": "to harm, to hurt",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "безразличен",
+        "en": "indifferent",
+        "note": "„безразлично ми е“ = I don't care either way"
+      },
+      {
+        "bg": "стоя настрана",
+        "en": "to stay away",
+        "note": "„стойте настрана“ is the plural imperative"
+      },
+      {
+        "bg": "липсващ",
+        "en": "missing",
+        "note": "from липсвам = to be missing"
+      },
+      {
+        "bg": "четворка / двойка",
+        "en": "a four / a two (school grades)",
+        "note": "двойка is a fail; all grade names are feminine"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 9,
+    "speaker": "Host",
+    "english": "The first strategy I want to talk about from the digital minimalism subreddit is to use 90s-era technology. Let me read here from the post. \"I was born in 2004, got a small gist of how it was to live in that period, and couldn't simply forget about it. For my main and only mobile phone, I'm currently using a 2006 Nokia 1110, and I'm planning on having a landline installed.\"",
+    "bulgarian_reference": "Първата стратегия от субредита за дигитален минимализъм, за която искам да поговоря, е да се използват технологии от 90-те. Нека ви прочета от публикацията. „Роден съм през 2004 г., успях да зърна малко от това как се е живяло тогава и просто не можах да го забравя. Като основен и единствен мобилен телефон в момента използвам Nokia 1110 от 2006 г. и смятам да си прекарам стационарен телефон.“",
+    "grammar_notes": [
+      "„за която“: the relative pronoun agrees with the noun it refers to – стратегия is feminine, so който → която.",
+      "„как се е живяло“: impersonal се + perfect in the neuter („живяло“), 'how people lived / what life was like'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "зърна",
+        "en": "to catch a glimpse of",
+        "note": "perfective; imperfective: зървам"
+      },
+      {
+        "bg": "стационарен телефон",
+        "en": "landline",
+        "note": "„прекарам телефон“ = to have a line installed"
+      },
+      {
+        "bg": "90-те",
+        "en": "the 90s",
+        "note": "read „деветдесетте“"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 10,
+    "speaker": "Host",
+    "english": "\"I own a PlayStation 1, PlayStation 2, a CRT TV, a mini hi-fi. I burn my own games, music, and data on CDs. I daily carry a Sony CD Walkman, currently writing this at work from my Sony laptop running Windows 7.\" All right, so here we have someone who is embracing these single-purpose technologies of a past era: higher friction, but less distracting.",
+    "bulgarian_reference": "„Имам PlayStation 1, PlayStation 2, телевизор с кинескоп и мини уредба. Сам си записвам игри, музика и данни на дискове. Всеки ден нося със себе си CD уокмен на Sony, а в момента пиша това на работа от лаптопа си Sony с Windows 7.“ Добре, значи тук имаме човек, който прегръща тези технологии от една отминала епоха, всяка с една-единствена функция – по-неудобни, но по-малко разсейващи.",
+    "grammar_notes": [
+      "„Сам си записвам“: сам (by myself) agrees with the speaker; си adds 'for myself'.",
+      "„от лаптопа си“: си here is the reflexive possessive, 'my own laptop' – used when the owner is the subject."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "кинескоп",
+        "en": "cathode-ray tube (CRT)",
+        "note": "masculine; „телевизор с кинескоп“ = an old CRT TV"
+      },
+      {
+        "bg": "уредба",
+        "en": "stereo system, hi-fi",
+        "note": "feminine"
+      },
+      {
+        "bg": "записвам",
+        "en": "to burn (a CD), to record",
+        "note": "imperfective; perfective: запиша"
+      },
+      {
+        "bg": "отминал",
+        "en": "bygone, past",
+        "note": "from отмина = to pass by"
+      }
+    ],
+    "background": "The Sony Walkman was the classic portable music player; the CD version was also called the Discman."
+  },
+  {
+    "index": 11,
+    "speaker": "Host",
+    "english": "Now, I got interested. What were people going to say about this? So I jumped into this thread to read some of the other comments. All right, so let's go a little deeper here. Someone asked what he does in his spare time without modern distracting devices like a smartphone. Here's what the original poster said. \"I do sometimes do nothing. But then again, I have my CDs and cassettes. I love to read books and old magazines or the current newspaper, so I rarely have to do nothing.\"",
+    "bulgarian_reference": "Стана ми интересно какво ще кажат хората за това. Затова влязох в темата да прочета и някои от другите коментари. Добре, нека да погледнем малко по-надълбоко. Някой го попита какво прави в свободното си време без модерните разсейващи устройства като смартфона. Ето какво отговори авторът на публикацията. „Понякога наистина не правя нищо. Но пък имам дисковете и касетите си. Обичам да чета книги и стари списания или днешния вестник, така че рядко ми се налага да не правя нищо.“",
+    "grammar_notes": [
+      "Double negation is normal: „не правя нищо“ = 'I do nothing' (literally 'I don't do nothing').",
+      "„Стана ми интересно“: dative clitic + стана + neuter adjective = 'I got interested'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "тема",
+        "en": "thread (online), topic",
+        "note": "feminine; in forums „тема“ is the usual word for a thread"
+      },
+      {
+        "bg": "налага ми се",
+        "en": "I have to, I'm forced to",
+        "note": "impersonal; „рядко ми се налага“ = I rarely have to"
+      },
+      {
+        "bg": "списание",
+        "en": "magazine",
+        "note": "neuter"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 12,
+    "speaker": "Host",
+    "english": "All right, then someone else asked him if he was, quote, \"happy with this lifestyle.\" He kind of gave a revealing response here. Let's look at this. \"My family, of course, does not support nor understand it. Ha ha. But thankfully, I live on my own with my wife, who also doesn't understand it, but she's patient with me and supports it anyways.\"",
+    "bulgarian_reference": "Добре, после някой друг го попита дали е, цитирам, „щастлив с този начин на живот“. И той даде един доста показателен отговор. Да видим. „Семейството ми, разбира се, нито го подкрепя, нито го разбира, ха-ха. Но за щастие живея отделно, с жена си, която също не го разбира, но е търпелива с мен и въпреки това го подкрепя.“",
+    "grammar_notes": [
+      "„нито… нито…“ = 'neither… nor…'. With нито the verb needs no extra не.",
+      "„с жена си“: си = 'my own', because the subject (I) is the owner. „с жена ми“ would also be heard, but си is the textbook choice."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "подкрепя / подкрепям",
+        "en": "to support",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "показателен",
+        "en": "revealing, telling",
+        "note": "„показателен отговор“ = a telling answer"
+      },
+      {
+        "bg": "търпелив",
+        "en": "patient",
+        "note": "търпение = patience"
+      },
+      {
+        "bg": "въпреки това",
+        "en": "anyway, nevertheless",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 13,
+    "speaker": "Host",
+    "english": "\"And it's safe to say that I've sadly cut off any past friends that I did have. That's why I'm posting to Reddit, hoping to find someone to talk to. As for peers, they don't care much. I like it that way. I don't like to boast about my life, because it suits me. It suits me, but not everybody, and that's okay.\"",
+    "bulgarian_reference": "„Спокойно мога да кажа, че за съжаление прекъснах връзка с всички приятели, които имах. Затова пиша в Reddit – с надеждата да намеря с кого да си поговоря. Колкото до връстниците ми, на тях не им пука особено. Харесва ми така. Не обичам да се хваля с живота си, защото той устройва мен. Устройва мен, но не всеки, и това е нормално.“",
+    "grammar_notes": [
+      "„на тях не им пука“: the indirect object is doubled – full form „на тях“ plus clitic „им“. Very common in speech for emphasis.",
+      "„устройва мен“: the full pronoun мен instead of the clitic ме puts stress on 'me' – 'it suits ME'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "прекъсна / прекъсвам",
+        "en": "to cut off, to interrupt",
+        "note": "„прекъсвам връзка с“ = to cut ties with"
+      },
+      {
+        "bg": "връстник",
+        "en": "peer, person of the same age",
+        "note": "masculine; plural връстници"
+      },
+      {
+        "bg": "не ми пука",
+        "en": "I don't care",
+        "note": "colloquial"
+      },
+      {
+        "bg": "хваля се",
+        "en": "to boast, to brag",
+        "note": "imperfective; perfective: похваля се"
+      },
+      {
+        "bg": "устройва ме",
+        "en": "it suits me",
+        "note": "from устройвам"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 14,
+    "speaker": "Host",
+    "english": "All right. So this is kind of an interesting collection of advice here. Here's what I like. It acknowledges that the technology you use shapes your experience of life, right? So if you change the technology in your life, it changes your experience of life. That was a key idea in my book, Digital Minimalism, and it's a key idea for any of you out there who are grappling with the distracted world to keep in mind.",
+    "bulgarian_reference": "Добре. Това е доста интересен набор от съвети. Ето какво ми харесва. Тук се признава, че технологиите, които използваш, оформят начина, по който преживяваш живота си, нали? Тоест, ако промениш технологиите в живота си, се променя и начинът, по който го преживяваш. Това беше ключова идея в книгата ми „Дигитален минимализъм“ и е ключова идея, която всеки от вас, който се бори с този разсеян свят, трябва да има предвид.",
+    "grammar_notes": [
+      "Generic 'you' is 2nd person singular in Bulgarian too: „използваш“, „ако промениш“.",
+      "„начинът, по който“: full article -ът because начин is the subject of „се променя“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "оформя / оформям",
+        "en": "to shape, to form",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "преживявам",
+        "en": "to experience, to live through",
+        "note": "imperfective; perfective: преживея"
+      },
+      {
+        "bg": "боря се с",
+        "en": "to struggle with, to grapple with",
+        "note": "imperfective"
+      },
+      {
+        "bg": "имам предвид",
+        "en": "to keep in mind; to mean",
+        "note": "„какво имаш предвид?“ = what do you mean?"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 15,
+    "speaker": "Host",
+    "english": "It's not that you have your life that you live, and then there are these various tools that you use to do things, kind of on the side. The tools shape your experience of your life. If you're using 90s-era technology, your day-to-day experience is going to feel very different than if you're using all of the modern 2026 technology.",
+    "bulgarian_reference": "Не е като да имаш живота, който живееш, а после някак отстрани – разни инструменти, с които вършиш неща. Инструментите оформят това как преживяваш живота си. Ако използваш технологии от 90-те, ежедневието ти ще се усеща съвсем различно, отколкото ако използваш всички съвременни технологии от 2026 г.",
+    "grammar_notes": [
+      "„Не е като да…“: a spoken construction, 'it's not as if…', followed by да + present.",
+      "„различно, отколкото ако…“: отколкото introduces the comparison ('than'), here with a whole if-clause."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "отстрани",
+        "en": "on the side, from the outside",
+        "note": "adverb; stress on the last syllable"
+      },
+      {
+        "bg": "върша / свърша",
+        "en": "to do, to get done",
+        "note": "imperfective / perfective"
+      },
+      {
+        "bg": "ежедневие",
+        "en": "everyday life, daily routine",
+        "note": "neuter; „ежедневието ти“ = your day-to-day"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 16,
+    "speaker": "Host",
+    "english": "What I don't like is it seems like this poster has pushed his commitment to 90s-era tools so far that it's also creating negative externalities in his life. He's losing friends. He doesn't talk to his family. His wife thinks he's weird. He's walking around with a Sony Discman and cassettes, which I think is awesome, but is a little bit eccentric.",
+    "bulgarian_reference": "Това, което не ми харесва, е, че този човек изглежда е стигнал толкова далеч в отдадеността си на инструментите от 90-те, че това вече му създава и негативни странични ефекти в живота. Губи приятели. Не говори със семейството си. Жена му го смята за странен. Разхожда се с дискмен на Sony и касети, което според мен е страхотно, но е и малко ексцентрично.",
+    "grammar_notes": [
+      "„Това, което…, е, че…“: 'What… is that…'. Note the commas around „е“.",
+      "„толкова далеч…, че…“ = 'so far… that…'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "отдаденост",
+        "en": "commitment, dedication",
+        "note": "feminine"
+      },
+      {
+        "bg": "страничен ефект",
+        "en": "side effect",
+        "note": "used here for 'negative externalities'"
+      },
+      {
+        "bg": "смятам за",
+        "en": "to consider (someone) to be",
+        "note": "„смята го за странен“ = thinks he's weird"
+      },
+      {
+        "bg": "разхождам се",
+        "en": "to walk around, to stroll",
+        "note": "imperfective; perfective: разходя се"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 17,
+    "speaker": "Host",
+    "english": "It feels like there's a political statement in here, more so than just: what is giving me the best balance of pros and cons to get the deepest possible life? So he's probably taken an idea and pushed it into an identity, as opposed to just trying to say, what's the best configuration for my life?",
+    "bulgarian_reference": "Усещането е, че тук има някакво политическо изявление, повече отколкото просто въпросът кое ми дава най-добрия баланс между плюсове и минуси, за да живея възможно най-дълбок живот. Така че той вероятно е взел една идея и я е превърнал в идентичност, вместо просто да се запита каква е най-добрата конфигурация за живота му.",
+    "grammar_notes": [
+      "„я е превърнал“: in the perfect tense the object clitic comes first, then the auxiliary е, then the participle.",
+      "„вместо да се запита“: вместо да + present = 'instead of asking himself'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "изявление",
+        "en": "statement, declaration",
+        "note": "neuter; public statement"
+      },
+      {
+        "bg": "запитам се / питам се",
+        "en": "to ask oneself, to wonder",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "плюсове и минуси",
+        "en": "pros and cons",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 18,
+    "speaker": "Host",
+    "english": "So in the end, I'm going to grade this a B. I think you should be willing to use simpler, higher-friction technologies if they can bring psychological benefits that outweigh the inconvenience cost, but you don't necessarily want to go as far as this individual did. Be a little bit more selective in how you do it. All right, that's good advice, which was not in my original book.",
+    "bulgarian_reference": "Така че накрая ще дам на това петица. Мисля, че трябва да сте готови да използвате по-прости и по-неудобни технологии, ако психологическите ползи от тях надвишават цената на неудобството, но не е задължително да стигате толкова далеч като този човек. Бъдете малко по-избирателни в това как го правите. Добре, това е добър съвет, който го нямаше в оригиналната ми книга.",
+    "grammar_notes": [
+      "„Бъдете“ is the plural/polite imperative of съм ('be'); singular: бъди.",
+      "„който го нямаше“: in speech Bulgarian often repeats the object as a clitic (го) even after който."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "полза",
+        "en": "benefit",
+        "note": "feminine; plural ползи"
+      },
+      {
+        "bg": "надвишавам",
+        "en": "to exceed, to outweigh",
+        "note": "imperfective; perfective: надвиша"
+      },
+      {
+        "bg": "избирателен",
+        "en": "selective",
+        "note": "from избирам = to choose"
+      },
+      {
+        "bg": "не е задължително",
+        "en": "it's not necessary, not a must",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 19,
+    "speaker": "Host",
+    "english": "All right, second strategy we found in the subreddit: replace social media with reading. I'm going to read from the original post here. \"During lockdown, I realized I had a very unhealthy relationship with technology. I was spending huge chunks of my day on my phone and laptop. I was getting into heated political discussions on Twitter and seeking validation on Instagram, scrolling on Reels and Shorts, and refreshing news apps constantly.\"",
+    "bulgarian_reference": "Добре, втората стратегия, която открихме в субредита: заменете социалните мрежи с четене. Ще прочета от оригиналната публикация. „По време на локдауна осъзнах, че имам много нездравословно отношение към технологиите. Прекарвах огромни части от деня си на телефона и лаптопа. Влизах в разгорещени политически спорове в Туитър, търсех одобрение в Инстаграм, скролвах рийлс и шортс и постоянно опреснявах новинарски приложения.“",
+    "grammar_notes": [
+      "Imperfect for repeated past habits: „прекарвах“, „влизах“, „търсех“, „скролвах“, „опреснявах“ – 'I used to / kept doing'.",
+      "„осъзнах, че имам“: after a past verb of realising, Bulgarian keeps the present („имам“) where English shifts to 'had'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "осъзная / осъзнавам",
+        "en": "to realise",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "отношение",
+        "en": "relationship, attitude",
+        "note": "neuter; „отношение към“ = attitude towards"
+      },
+      {
+        "bg": "одобрение",
+        "en": "approval, validation",
+        "note": "neuter"
+      },
+      {
+        "bg": "скролвам",
+        "en": "to scroll",
+        "note": "everyday loanword from English"
+      },
+      {
+        "bg": "опреснявам",
+        "en": "to refresh",
+        "note": "imperfective; perfective: опресня"
+      }
+    ],
+    "background": "Reels (Instagram) and Shorts (YouTube) are short vertical-video feeds modelled on TikTok."
+  },
+  {
+    "index": 20,
+    "speaker": "Host",
+    "english": "\"I read Digital Minimalism by Cal Newport in 2023 and took some concrete steps to fix things. I did everything you'd expect, like setting time limits, carrying my phone in my rucksack, only using desktop sites. Some of it worked, some of it didn't. But what really worked was entirely cutting myself off from Twitter and Instagram for six months.\"",
+    "bulgarian_reference": "„През 2023 г. прочетох „Дигитален минимализъм“ на Кал Нюпорт и предприех конкретни стъпки, за да оправя нещата. Направих всичко, което бихте очаквали – слагах си ограничения на времето, носех телефона в раницата, ползвах само десктоп версиите на сайтовете. Част от това проработи, част – не. Но това, което наистина проработи, беше да се откъсна напълно от Туитър и Инстаграм за шест месеца.“",
+    "grammar_notes": [
+      "„част – не“: the verb is left out and replaced by a dash – 'some didn't'.",
+      "„проработи“: the prefix про- makes a perfective verb meaning 'started to work / turned out to work'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "предприема / предприемам",
+        "en": "to undertake, to take (steps)",
+        "note": "„предприемам стъпки“ = take steps"
+      },
+      {
+        "bg": "оправя / оправям",
+        "en": "to fix, to sort out",
+        "note": "colloquial, very common"
+      },
+      {
+        "bg": "раница",
+        "en": "backpack, rucksack",
+        "note": "feminine"
+      },
+      {
+        "bg": "откъсна се / откъсвам се",
+        "en": "to cut oneself off, to break away",
+        "note": "perfective / imperfective"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 21,
+    "speaker": "Host",
+    "english": "\"I fixed other habits too. Reading became my default boredom-filling activity. I began to carry a notebook around. I tried a dumb phone for a while. I switched out the phone in my pocket with an e-reader. Where I'm at now is kind of through the other side of tech addiction. I reinstalled Instagram a year ago and moved to Bluesky. Neither really appealed much to me, and I've simply deleted both again.\"",
+    "bulgarian_reference": "„Промених и други навици. Четенето стана основното ми занимание, когато ми е скучно. Започнах да нося тефтер със себе си. Известно време пробвах обикновен телефон с копчета. Смених телефона в джоба си с електронен четец. Сега съм някак от другата страна на зависимостта от технологиите. Преди година преинсталирах Инстаграм и минах на Bluesky. Нито едното, нито другото особено ме привлече и просто ги изтрих отново.“",
+    "grammar_notes": [
+      "„Нито едното, нито другото“ = 'neither one nor the other'; the neuter forms refer to the two apps.",
+      "„когато ми е скучно“: dative + е + neuter adjective again – 'when I'm bored'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "навик",
+        "en": "habit",
+        "note": "masculine"
+      },
+      {
+        "bg": "занимание",
+        "en": "activity, pastime",
+        "note": "neuter"
+      },
+      {
+        "bg": "тефтер",
+        "en": "notebook",
+        "note": "masculine; also бележник"
+      },
+      {
+        "bg": "зависимост",
+        "en": "addiction, dependence",
+        "note": "feminine"
+      },
+      {
+        "bg": "изтрия / изтривам",
+        "en": "to delete, to wipe",
+        "note": "perfective / imperfective"
+      }
+    ],
+    "background": "A 'dumb phone' is a basic phone without apps. Bluesky is a Twitter-like social network that many users moved to after Twitter became X."
+  },
+  {
+    "index": 22,
+    "speaker": "Host",
+    "english": "\"I deleted news apps about three months ago. I read about 15 to 100 pages a day now. I write every day. I notice a lot more. I feel more engaged in my real life and maintain a smaller number of important friendships. I can focus for longer periods.\"",
+    "bulgarian_reference": "„Преди около три месеца изтрих новинарските приложения. Сега чета между 15 и 100 страници на ден. Пиша всеки ден. Забелязвам много повече неща. Чувствам се по-ангажиран с истинския си живот и поддържам по-малко, но важни приятелства. Мога да се фокусирам за по-дълго време.“",
+    "grammar_notes": [
+      "„Преди около три месеца“: преди + time period = 'ago'. It comes before the time, not after.",
+      "„по-ангажиран“: comparative with по- (hyphenated) works on adjectives and adverbs alike: по-дълго, по-малко."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "забележа / забелязвам",
+        "en": "to notice",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "поддържам",
+        "en": "to maintain, to keep up",
+        "note": "imperfective; „поддържам връзка“ = to keep in touch"
+      },
+      {
+        "bg": "ангажиран",
+        "en": "engaged, involved",
+        "note": "loanword; also 'busy, committed'"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 23,
+    "speaker": "Host",
+    "english": "All right, so if we're going to summarize what's going on here, it wasn't just that he left a lot of these social media platforms that were causing him angst, but he replaced — I'm going to use his terminology here — he replaced his default boredom-filling activity with something else, in this case reading, and he's reading a lot and getting a lot of benefits out of it.",
+    "bulgarian_reference": "Добре, ако трябва да обобщим какво се случва тук – той не просто е напуснал много от тези социални мрежи, които са му причинявали тревога, а ги е заменил – ще използвам неговата терминология – заменил е заниманието си по подразбиране за запълване на скуката с нещо друго, в случая с четене, и чете много и има голяма полза от това.",
+    "grammar_notes": [
+      "„не просто…, а…“ = 'not just…, but…'; after a negative, 'but' is а, not но.",
+      "Perfect tense „е напуснал“, „е заменил“: past actions whose result matters now. The auxiliary е drops when the sentence starts with the participle: „заменил е“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "обобщя / обобщавам",
+        "en": "to summarise",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "напусна / напускам",
+        "en": "to leave, to quit",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "по подразбиране",
+        "en": "by default",
+        "note": "IT term, also used figuratively"
+      },
+      {
+        "bg": "запълня / запълвам",
+        "en": "to fill (a gap, time)",
+        "note": "perfective / imperfective"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 24,
+    "speaker": "Host",
+    "english": "Well, I like this idea, first of all, that he's focusing not on the device, but on the things you're using on the device. He tried going to a dumb phone, and then he kind of went back again, and you realize the issue was not the phone. It was the social media. It was reading books on there. Stop using social media, get an e-reader. The phone itself was not as much of a problem.",
+    "bulgarian_reference": "Първо, харесва ми идеята, че той се фокусира не върху самото устройство, а върху нещата, които правиш на него. Опитал е да мине на обикновен телефон, после някак се е върнал обратно и осъзнаваш, че проблемът не е бил в телефона. Бил е в социалните мрежи. Бил е в това, че е чел книги на него. Спри социалните мрежи, вземи си електронен четец. Самият телефон не е бил чак такъв проблем.",
+    "grammar_notes": [
+      "„Опитал е“, „се е върнал“, „е бил“: past indefinite (perfect) = съм-form + past participle. Cal is reporting what the Reddit poster did, so it sounds like a summary of past experience.",
+      "„самото устройство“, „самият телефон“: сам- + article means 'the ... itself'. It agrees in gender: самият (m), самата (f), самото (n)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "мина / минавам на",
+        "en": "to switch to",
+        "note": "„да мине на обикновен телефон“ = to switch to a basic phone"
+      },
+      {
+        "bg": "социални мрежи",
+        "en": "social media",
+        "note": "literally 'social networks'; the usual Bulgarian term"
+      },
+      {
+        "bg": "електронен четец",
+        "en": "e-reader",
+        "note": "masculine; many people just say „Киндъл“"
+      }
+    ],
+    "background": "A 'dumb phone' is a basic phone without apps or internet. Cal is discussing a Reddit post from someone who quit social media and switched his reading to an e-reader."
+  },
+  {
+    "index": 25,
+    "speaker": "Host",
+    "english": "I like this idea that eventually, and this is a key point, a sustained declutter of this type will rewire your brain. And the appeal of things like social media is going to dampen once you've downregulated that response that you trained yourself to expect, this sort of stimulation response from these tools. And as a result, after he had downregulated this reward center, when he put Bluesky back on his phone, when he started using, what else did he use here, Instagram, he was like, this is not that interesting to me, and he just deleted it again. So it takes time to wire your brain into these more addictive cycles. You can rewire them back out of them.",
+    "bulgarian_reference": "Харесва ми идеята, че в крайна сметка – и това е ключов момент – едно продължително разчистване от този тип ще пренастрои мозъка ти. И привлекателността на неща като социалните мрежи ще отслабне, след като си потиснал онази реакция, която сам си се научил да очакваш – тази реакция на стимулация от тези инструменти. И в резултат на това, след като е успокоил този център за награда, когато си е сложил пак Bluesky на телефона, когато е започнал да ползва – какво още беше – Instagram, той си е казал: „Това не ми е толкова интересно“, и просто пак го е изтрил. Значи отнема време мозъкът ти да влезе в тези по-пристрастяващи цикли. Но можеш и да го пренастроиш да излезе от тях.",
+    "grammar_notes": [
+      "„ще пренастрои“, „ще отслабне“: future with ще + perfective verb – a single completed change in the future.",
+      "„мозъкът ти“: a possessive short pronoun (ти) after a noun with the full article -ът. Мозъкът is the subject here, so it takes the full article."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "разчистване",
+        "en": "decluttering, clearing out",
+        "note": "neuter verbal noun from разчистя / разчиствам"
+      },
+      {
+        "bg": "пренастроя / пренастройвам",
+        "en": "to rewire, to reset",
+        "note": "literally 're-tune'"
+      },
+      {
+        "bg": "отслабна / отслабвам",
+        "en": "to weaken, to fade",
+        "note": "also 'to lose weight'"
+      }
+    ],
+    "background": "Cal's book 'Digital Minimalism' recommends a 30-day 'digital declutter' in which you step away from optional technologies and then reintroduce only the ones that add real value."
+  },
+  {
+    "index": 26,
+    "speaker": "Host",
+    "english": "I really like his core suggestion of having a new default activity, because when you feel bored, especially when you're still downregulating those systems, you need something that's going to give you a reward. Otherwise, you're just sitting there white-knuckling it. And reading is fantastic because it also is making you more cognitively fit. It's a really sort of completely encompassing or totalized experience. Your whole brain gets involved. So I like a lot about this.",
+    "bulgarian_reference": "Много ми харесва основното му предложение да си намериш ново занимание по подразбиране, защото когато ти е скучно – особено докато тези системи още се успокояват – ти трябва нещо, което да ти даде награда. Иначе просто седиш и стискаш зъби. А четенето е страхотно, защото освен това те прави и по-подготвен умствено. Това е едно наистина всеобхватно, цялостно преживяване. Целият ти мозък участва. Така че доста неща ми харесват тук.",
+    "grammar_notes": [
+      "„ти е скучно“, „ти трябва“: Bulgarian expresses feelings and needs with a dative short pronoun + 3rd person verb – literally 'to you it is boring', 'to you is needed'.",
+      "„нещо, което да ти даде награда“: да + perfective after a relative clause gives the idea 'something that would/could give you'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "стискам зъби",
+        "en": "to grit one's teeth",
+        "note": "the natural equivalent of 'white-knuckling it'"
+      },
+      {
+        "bg": "преживяване",
+        "en": "experience (something lived through)",
+        "note": "neuter; for work experience say „опит“"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 27,
+    "speaker": "Host",
+    "english": "What did I not like? I don't know, going back to social media. I mean, it only lasted a little bit and then he's like, I don't need this anymore, but I don't know. Why tempt fate? Instagram, TikTok, they'll be just fine without you. The world will still tilt on its axis. You don't even need to mess around with that.",
+    "bulgarian_reference": "Какво не ми хареса? Не знам – връщането към социалните мрежи. Добре, продължило е съвсем малко и после той вика: „Това вече не ми трябва“, но не знам. Защо да изкушаваш съдбата? Instagram, TikTok – ще се оправят чудесно и без теб. Земята пак ще си се върти около оста. Изобщо няма нужда да се занимаваш с тях.",
+    "grammar_notes": [
+      "„Защо да изкушаваш съдбата?“: a да-clause with no main verb works as a rhetorical question – 'why would you...?'.",
+      "„той вика“: in spoken Bulgarian вика ('shouts') is very often used for 'says' when retelling what someone said."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "изкушавам / изкуша",
+        "en": "to tempt",
+        "note": "„изкушавам съдбата“ = to tempt fate"
+      },
+      {
+        "bg": "оправя се / оправям се",
+        "en": "to manage, to be fine",
+        "note": "„ще се оправят и без теб“ = they'll be fine without you"
+      },
+      {
+        "bg": "ос",
+        "en": "axis",
+        "note": "feminine despite ending in a consonant: оста"
+      },
+      {
+        "bg": "занимавам се с",
+        "en": "to bother with, to deal with",
+        "note": "imperfective; also 'to do (as an activity)'"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 28,
+    "speaker": "Host",
+    "english": "So what grade am I going to give this piece of advice? This is getting an A. If you follow that exact advice, your life will 100% be better. Leave social media and read instead. There's no way you're not going to enjoy your life more.",
+    "bulgarian_reference": "И каква оценка ще дам на този съвет? Получава шестица. Ако следваш точно този съвет, животът ти на сто процента ще е по-добър. Зарежи социалните мрежи и чети вместо това. Няма начин да не ти е по-хубаво в живота.",
+    "grammar_notes": [
+      "„Ако следваш ..., животът ти ... ще е“: a real condition – ако + present, then ще in the main clause. Never put ще after ако.",
+      "„Няма начин да не...“: double negation with да is normal here and means 'there's no way you won't...'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "съвет",
+        "en": "piece of advice",
+        "note": "masculine and countable, unlike English 'advice'"
+      },
+      {
+        "bg": "зарежа / зарязвам",
+        "en": "to drop, to ditch",
+        "note": "informal and very common"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 29,
+    "speaker": "Host",
+    "english": "All right. Strategy number three. You can tell from the title this is very pragmatic: let an angry teenager control your phone. I guess you just go find one on the street: okay, this is yours now. Let me read you the post here. Let me give you a little more context. \"I'm doomscrolling way too much. So I bought a Brick and set up schedules, but then I just go scan and unlock it.\"",
+    "bulgarian_reference": "Добре. Стратегия номер три. Още от заглавието личи, че е много прагматична: „Нека ядосан тийнейджър контролира телефона ти.“ Предполагам просто отиваш и си намираш някой на улицата: „Ето, вече е твой.“ Нека ви прочета поста. Да ви дам малко повече контекст. „Прекалено много скролвам безсмислено. Затова си купих Brick и си направих графици, но после просто отивам, сканирам и го отключвам.“",
+    "grammar_notes": [
+      "„Нека ви прочета“, „Да ви дам“: нека + present and a bare да + present both express 'let me / let's'. The short pronoun ви (to you, plural) goes before the verb.",
+      "„си купих“, „си направих“: aorist (completed past) + the dative particle си, which adds 'for myself' and makes the sentence sound natural and personal."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "личи",
+        "en": "it shows, it's evident",
+        "note": "impersonal; „от заглавието личи“ = you can tell from the title"
+      },
+      {
+        "bg": "ядосан",
+        "en": "angry",
+        "note": "adjective from ядосам се / ядосвам се"
+      },
+      {
+        "bg": "отключа / отключвам",
+        "en": "to unlock",
+        "note": "opposite: заключа / заключвам"
+      }
+    ],
+    "background": "'Doomscrolling' means endlessly scrolling through feeds, often of bad news. The Brick is a small physical device that blocks chosen apps until you tap your phone on it again."
+  },
+  {
+    "index": 30,
+    "speaker": "Host",
+    "english": "A Brick is like the, that's the fob. Have you seen that before? You kind of talked about it. Yeah. It's like a physical device you have to touch to your phone to unlock it, basically. So if you put it in another room, you're like, oh, I have to go get it and come back and touch my phone, and it gives you some more friction.",
+    "bulgarian_reference": "Brick е нещо като... онова ключодържателче. Виждал ли си го? Май си говорил за него. Да. По същество е физическо устройство, до което трябва да допреш телефона си, за да го отключиш. Така че ако го оставиш в друга стая, си казваш: „Ох, трябва да отида да го взема, да се върна и да си допра телефона“, и това ти създава още малко трудност.",
+    "grammar_notes": [
+      "„Виждал ли си го?“: yes/no questions use the particle ли right after the stressed word – here the participle виждал.",
+      "„трябва да отида да го взема, да се върна“: a chain of да + perfective verbs after трябва, one for each step."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "ключодържател",
+        "en": "key fob, keyring",
+        "note": "masculine; -че makes it a cute diminutive"
+      },
+      {
+        "bg": "допра / допирам",
+        "en": "to touch (something against something)",
+        "note": "„допирам телефона до...“"
+      },
+      {
+        "bg": "по същество",
+        "en": "basically, essentially",
+        "note": ""
+      },
+      {
+        "bg": "трудност",
+        "en": "difficulty, friction",
+        "note": "feminine; here for the 'friction' that makes a habit harder"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 31,
+    "speaker": "Host",
+    "english": "I first saw a Brick with the crew. I was filming a segment for the new Minimalists documentary, and one of the members of the film crew showed me a Brick. I remember that. It was pretty cool. All right, back to the Reddit post here. \"So I gave my teenage daughter my Brick. I was fiending today.\" Do you know what fiending is?",
+    "bulgarian_reference": "За първи път видях Brick при екипа. Снимах един сегмент за новия документален филм на The Minimalists и един от членовете на снимачния екип ми показа Brick. Помня го. Беше доста готино. Добре, обратно към поста в Reddit. „Та дадох моя Brick на дъщеря ми тийнейджърка. Днес страшно ме друсаше.“ Знаеш ли какво значи „fiending“?",
+    "grammar_notes": [
+      "„видях“, „показа“ (aorist) vs „снимах“ (here the ongoing background activity): the aorist tells single events in a story.",
+      "„Беше доста готино“: беше is the past of е; in colloquial speech it often goes with готино (cool)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "екип",
+        "en": "crew, team",
+        "note": "masculine; „снимачен екип“ = film crew"
+      },
+      {
+        "bg": "документален филм",
+        "en": "documentary",
+        "note": ""
+      },
+      {
+        "bg": "готино",
+        "en": "cool",
+        "note": "very colloquial"
+      },
+      {
+        "bg": "друса ме",
+        "en": "I'm craving (a fix)",
+        "note": "slang, literally 'it shakes me'; used loosely for strong cravings"
+      }
+    ],
+    "background": "The Minimalists (Joshua Fields Millburn and Ryan Nicodemus) make documentaries about living with less. 'Fiending' is American slang for craving something intensely, originally about drugs."
+  },
+  {
+    "index": 32,
+    "speaker": "Cohost",
+    "english": "Like desiring? I think so. Is that Gen Z speak? Kind of like fiending for nicotine or something.",
+    "bulgarian_reference": "Нещо като силно желание? Мисля, че да. Това от жаргона на поколение Z ли е? Нещо като когато ти се пуши.",
+    "grammar_notes": [
+      "„ти се пуши“: dative pronoun + се + 3rd person verb means 'you feel like (doing something)': ми се яде, ми се спи, ми се пуши."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "жаргон",
+        "en": "slang",
+        "note": "masculine"
+      },
+      {
+        "bg": "поколение",
+        "en": "generation",
+        "note": "neuter; „поколение Z“ = Gen Z"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 33,
+    "speaker": "Host",
+    "english": "I've never heard it. Interesting. Okay. \"I was fiending today and asked her to unlock my phone. Obviously she won't, so it worked. Piss your teen off by limiting their screen time, and allow the angry teen to get drunk with power over control of your own screen time, and now we're all miserable, lol. For real though, we've got some kinks to work out, but I have high hopes this will be better for all of us in the long run.\" All right. So the angry teen was his teen. That makes more sense.",
+    "bulgarian_reference": "Никога не съм го чувал. Интересно. Добре. „Днес страшно ме тресеше за телефона и я помолих да ми отключи телефона. Естествено, тя отказва, така че сработи. Вбесете тийнейджъра си, като му ограничите екранното време, и оставете ядосания тийнейджър да се опияни от властта над вашето екранно време – и сега всички сме нещастни, хаха. Сериозно обаче, имаме още някои неща за изглаждане, но имам големи надежди, че в дългосрочен план ще е по-добре за всички ни.“ Добре. Значи ядосаният тийнейджър е бил неговото дете. Така е по-логично.",
+    "grammar_notes": [
+      "„като му ограничите“: като + present verb means 'by doing' – Bulgarian has no gerund in speech, so this is how you say 'by limiting'.",
+      "„ядосан тийнейджър“ → „ядосания тийнейджър“: the article goes on the first word of the noun phrase, the adjective. The short masculine article -я is used for an object."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "помоля / моля",
+        "en": "to ask (a favour)",
+        "note": "„помолих я да...“ = I asked her to..."
+      },
+      {
+        "bg": "вбеся / вбесявам",
+        "en": "to infuriate, to piss off",
+        "note": ""
+      },
+      {
+        "bg": "огранича / ограничавам",
+        "en": "to limit",
+        "note": "„екранно време“ = screen time"
+      },
+      {
+        "bg": "изгладя / изглаждам",
+        "en": "to smooth out",
+        "note": "„неща за изглаждане“ = kinks to work out"
+      },
+      {
+        "bg": "в дългосрочен план",
+        "en": "in the long run",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 34,
+    "speaker": "Host",
+    "english": "All right, what I like about this: taking willpower out of the equation makes sense to me. I mean, if your plan is to white-knuckle it and say, I am feeling there's a very strong motivation to pick up the phone because my short-term reward center is firing off votes for that action furiously, and I'm going to resist that, good luck. You might for a little bit. But if you're tired, you have something else going on, you've been resisting for a while, you're eventually going to pick up that phone.",
+    "bulgarian_reference": "Добре, какво ми харесва тук: да извадиш силата на волята от уравнението ми се струва смислено. Ако планът ти е да стискаш зъби и да си казваш: „Усещам много силен подтик да вдигна телефона, защото краткосрочният ми център за награда яростно гласува за това, но ще устоя“ – успех. Може и да издържиш известно време. Но ако си уморен, имаш нещо друго на главата си, съпротивляваш се от доста време, накрая ще вдигнеш телефона.",
+    "grammar_notes": [
+      "„ми се струва“: dative ми + се + струва = 'it seems to me'.",
+      "„Може и да издържиш“: може + да + present = 'you might'. The little и adds 'even / indeed' – 'you might well hold out'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "сила на волята",
+        "en": "willpower",
+        "note": "feminine; also just „воля“"
+      },
+      {
+        "bg": "подтик",
+        "en": "urge, impulse",
+        "note": "masculine"
+      },
+      {
+        "bg": "устоя / устоявам",
+        "en": "to resist",
+        "note": "„устоявам на изкушението“ = to resist temptation"
+      },
+      {
+        "bg": "издържа / издържам",
+        "en": "to hold out, to endure",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 35,
+    "speaker": "Host",
+    "english": "So by giving the control of his phone to his teenage daughter, willpower left the equation, and it made it much more likely for him to actually succeed here. There's some things here I don't like, though. First of all, there's signs of a more sort of serious addiction here. Like, you're really having a hard time staying away from this phone. You're giving control to someone else.",
+    "bulgarian_reference": "Така че като е дал контрола над телефона си на дъщеря си, волята е излязла от уравнението и така е станало много по-вероятно наистина да успее. Има обаче и неща, които не ми харесват. Първо, тук има признаци на по-сериозна зависимост. Наистина ти е трудно да стоиш далеч от телефона. Даваш контрола на някой друг.",
+    "grammar_notes": [
+      "„телефона си“, „дъщеря си“: the reflexive possessive си means 'his own' and points back to the subject, avoiding ambiguity with неговия (someone else's).",
+      "„обаче“ can go in the middle of the sentence, like English 'though': „Има обаче и неща...“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "признак",
+        "en": "sign, symptom",
+        "note": "masculine; plural признаци"
+      },
+      {
+        "bg": "успея / успявам",
+        "en": "to succeed, to manage to",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 36,
+    "speaker": "Host",
+    "english": "I mean, this feels a little bit like you're giving the key to your liquor cabinet to your daughter: man, I'm drinking too much, you take this key, don't let me drink anymore. You'd be like, well, there's a bigger substance abuse problem here, and you maybe need to get that stuff out of your house, get some more professional help.",
+    "bulgarian_reference": "Малко е като да дадеш ключа от шкафа с алкохола на дъщеря си: „Абе, пия прекалено много, вземи този ключ и не ме оставяй повече да пия.“ Всеки би казал: „Чакай, тук има по-голям проблем със зависимост и може би трябва изобщо да изнесеш тези неща от вкъщи и да потърсиш професионална помощ.“",
+    "grammar_notes": [
+      "„би казал“: the conditional = бих/би/би... + past participle, 'would say'.",
+      "„не ме оставяй“: negative commands normally use the imperfective imperative: „не оставяй“, not the perfective „не остави“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "шкаф",
+        "en": "cabinet, cupboard",
+        "note": "masculine"
+      },
+      {
+        "bg": "абе",
+        "en": "hey, man",
+        "note": "very colloquial filler word"
+      },
+      {
+        "bg": "изнеса / изнасям",
+        "en": "to carry out, to remove",
+        "note": "„изнасям от вкъщи“ = get it out of the house"
+      },
+      {
+        "bg": "потърся / търся",
+        "en": "to seek, to look for",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 37,
+    "speaker": "Host",
+    "english": "It's not your daughter's job to manage your addiction, and it just reinforces the idea to her that these are very powerful, desirable things, and that we should and will be using them all the time unless there's sort of extreme circumstances to try to get in the way of that.",
+    "bulgarian_reference": "Не е работа на дъщеря ти да се справя с твоята зависимост, а и това само затвърждава у нея идеята, че това са много силни, желани неща и че трябва и ще ги ползваме непрекъснато, освен ако някакви крайни обстоятелства не ни попречат.",
+    "grammar_notes": [
+      "„освен ако ... не ни попречат“: after освен ако ('unless') Bulgarian often adds a 'not' that English doesn't have. It isn't a real negation.",
+      "„ще ги ползваме“: the object clitic ги (them) sits between ще and the verb."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "справя се / справям се с",
+        "en": "to cope with, to handle",
+        "note": "very useful verb"
+      },
+      {
+        "bg": "затвърдя / затвърждавам",
+        "en": "to reinforce, to consolidate",
+        "note": ""
+      },
+      {
+        "bg": "обстоятелство",
+        "en": "circumstance",
+        "note": "neuter"
+      },
+      {
+        "bg": "попреча / преча",
+        "en": "to get in the way, to hinder",
+        "note": "takes a dative: пречи ми = it bothers/hinders me"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 38,
+    "speaker": "Host",
+    "english": "If I was you, A, maybe seek some of this more structured help for digital addictions. Go back and listen to my episode from last month with Anna Lembke about how that works with dopamine systems and support groups. As part of that, they'll probably get you off of using the social media channels altogether, but have a way to help you figure out what damage they're doing to make that more sustainable.",
+    "bulgarian_reference": "Ако бях на твое място, първо, може би бих потърсил по-структурирана помощ за дигитални зависимости. Върни се и чуй епизода ми от миналия месец с Анна Лембке за това как работи това с допаминовата система и групите за подкрепа. Там най-вероятно ще те накарат изобщо да спреш социалните мрежи, но ще ти помогнат и да разбереш какви щети ти нанасят, за да е по-устойчиво.",
+    "grammar_notes": [
+      "„Ако бях на твое място, ... бих потърсил“: an unreal condition – ако + past (бях), then the conditional бих + participle.",
+      "„ще те накарат да спреш“: накарам някого да... = to make someone do something; the person is an object pronoun (те)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "на твое място",
+        "en": "in your shoes, if I were you",
+        "note": ""
+      },
+      {
+        "bg": "накарам / карам",
+        "en": "to make (someone do something)",
+        "note": ""
+      },
+      {
+        "bg": "щета",
+        "en": "damage, harm",
+        "note": "feminine, usually plural щети; „нанасям щети“ = to do damage"
+      },
+      {
+        "bg": "устойчив",
+        "en": "sustainable, stable",
+        "note": ""
+      }
+    ],
+    "background": "Anna Lembke is a Stanford psychiatrist and author of 'Dopamine Nation', a book about addiction and the brain's reward system."
+  },
+  {
+    "index": 39,
+    "speaker": "Host",
+    "english": "The way I would deal with my daughter and her screen time is I would landline, and I'd force my daughter to do the same. I'd say this is the new household rule. For phones that we pay for, like your phone, it's not your phone, it's ours, we're lending it to you, we pay for it, it's not your property. There's nothing in the Constitution that says 14-year-olds get an unalienable right to their Snapchat account on their family's iPhone plan.",
+    "bulgarian_reference": "Аз с дъщеря ми и нейното екранно време бих постъпил така: бих въвел „режим стационарен телефон“ и бих накарал и нея да прави същото. Бих казал: „Това е новото правило вкъщи. Телефоните, които ние плащаме – като твоя телефон – не са твои, наши са, даваме ти го назаем, ние го плащаме, не е твоя собственост.“ Никъде в Конституцията не пише, че четиринайсетгодишните имат неотменимо право на профил в Snapchat по семейния абонамент за айфон.",
+    "grammar_notes": [
+      "„не е твоя собственост“ / „наши са“: possessive adjectives agree with the noun they describe – твоя (f, with собственост), наши (pl, with телефоните).",
+      "„Никъде ... не пише“: Bulgarian keeps double negation – никъде + не. „пише“ ('it writes') is the everyday way to say 'it says (in a text)'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "постъпя / постъпвам",
+        "en": "to act, to proceed",
+        "note": "„бих постъпил така“ = here's what I'd do"
+      },
+      {
+        "bg": "давам назаем",
+        "en": "to lend",
+        "note": "„взимам назаем“ = to borrow"
+      },
+      {
+        "bg": "собственост",
+        "en": "property, ownership",
+        "note": "feminine"
+      },
+      {
+        "bg": "абонамент",
+        "en": "(phone) plan, subscription",
+        "note": "masculine"
+      }
+    ],
+    "background": "'Landlining' is Cal's term for treating your smartphone like an old landline phone: it stays in one fixed spot at home. The 'Constitution' joke refers to the US Constitution."
+  },
+  {
+    "index": 40,
+    "speaker": "Host",
+    "english": "When we're at home, the phones are plugged in in the kitchen. It's called landlining. If you need to look something up, you go in the kitchen and look it up. If there's a text conversation, you're going to stand there in the kitchen to do the text conversation. If a phone call comes in, you'll hear it ring and you'll go into the kitchen to actually take that call.",
+    "bulgarian_reference": "Когато сме вкъщи, телефоните стоят на зарядно в кухнята. Това се казва „режим стационарен телефон“. Ако трябва да провериш нещо, отиваш в кухнята и го проверяваш. Ако си пишеш с някого, ще стоиш там в кухнята, докато си пишете. Ако някой се обади, ще чуеш звъненето и ще отидеш в кухнята да вдигнеш.",
+    "grammar_notes": [
+      "„си пишеш с някого“: reciprocal-like си + пиша с = 'to text / chat with someone'. „докато си пишете“ switches to plural because both people are writing.",
+      "„ще отидеш ... да вдигнеш“: after a verb of motion, да + verb shows purpose – 'go (in order) to pick up'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "зарядно",
+        "en": "charger",
+        "note": "neuter, short for „зарядно устройство“; „на зарядно“ = charging"
+      },
+      {
+        "bg": "обадя се / обаждам се",
+        "en": "to call (on the phone)",
+        "note": "„някой се обади“ = someone called"
+      },
+      {
+        "bg": "вдигна / вдигам",
+        "en": "to pick up (the phone)",
+        "note": "also 'to lift'"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 41,
+    "speaker": "Host",
+    "english": "So anything else you're doing at home or your daughter's doing at home, watching TV, at a meal, reading, there is no phone in your hand to be drawing your attention. And that's just the house rules. You have to do it too. They do not have the option of ignoring that rule and having their phone with them if they want to. They don't, but you have to do it too. So I think it's a way that you both could find some improvement here.",
+    "bulgarian_reference": "Така каквото и да правиш вкъщи ти или дъщеря ти – гледате телевизия, храните се, четете – няма телефон в ръката, който да ви разсейва. Такива са правилата вкъщи. И ти трябва да ги спазваш. Децата нямат избор да пренебрегнат правилото и да си държат телефона у тях, ако им се иска. Нямат, но и ти трябва да го спазваш. Така че мисля, че по този начин и двамата бихте се подобрили.",
+    "grammar_notes": [
+      "„каквото и да правиш“: question word + -то + и да = 'whatever' (каквото и да, където и да, когато и да).",
+      "„и двамата“: the special count form двамата is used for two people (masculine or mixed) – 'both of you'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "разсейвам / разсея",
+        "en": "to distract",
+        "note": "imperfective here: repeated distraction"
+      },
+      {
+        "bg": "спазвам / спазя",
+        "en": "to observe, to follow (a rule)",
+        "note": ""
+      },
+      {
+        "bg": "пренебрегна / пренебрегвам",
+        "en": "to ignore, to disregard",
+        "note": ""
+      },
+      {
+        "bg": "иска ми се",
+        "en": "I feel like, I'd like",
+        "note": "„ако им се иска“ = if they want to"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 42,
+    "speaker": "Host",
+    "english": "So overall, I'm going to give this strategy a C. It's cute and cruelly effective, but I think it's a detour from what you really need to do, which is to more aggressively deal with the underlying addictions here.",
+    "bulgarian_reference": "Така че като цяло ще дам на тази стратегия четворка. Мило е и жестоко ефективно, но мисля, че е заобиколен път, а всъщност трябва да направиш друго – да се заемеш много по-решително с истинските зависимости зад всичко това.",
+    "grammar_notes": [
+      "„ще дам ... четворка“: ще + perfective дам for a single future act. Grades are feminine nouns: двойка, тройка, четворка, петица, шестица."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "като цяло",
+        "en": "overall",
+        "note": ""
+      },
+      {
+        "bg": "жестоко",
+        "en": "cruelly",
+        "note": "in slang also means 'awesome'"
+      },
+      {
+        "bg": "заобиколен път",
+        "en": "detour",
+        "note": "masculine; from заобиколя = to go around"
+      },
+      {
+        "bg": "заема се / заемам се с",
+        "en": "to tackle, to take on",
+        "note": ""
+      }
+    ],
+    "background": "A US 'C' means 'indifferent' in Cal's scale; in this episode it is rendered as „четворка“ (4, „добър“)."
+  },
+  {
+    "index": 43,
+    "speaker": "Host",
+    "english": "All right, strategy number four: prioritize human curation. Let me read from the post. \"I'm interested in where people still discover things through human taste rather than feeds or recommendation engines. This could be books, music, films, art, places, food, ideas, events, local culture, creative work. Where do you still find recommendations that feel genuinely human? What makes them different from algorithmic recommendations?\"",
+    "bulgarian_reference": "Добре, стратегия номер четири: „Дайте предимство на подбора от хора.“ Ще ви прочета от поста. „Интересува ме къде хората все още откриват неща чрез човешкия вкус, а не чрез фийдове или системи за препоръки. Може да са книги, музика, филми, изкуство, места, храна, идеи, събития, местна култура, творчество. Къде все още намирате препоръки, които ви се струват истински човешки? С какво се различават от алгоритмичните препоръки?“",
+    "grammar_notes": [
+      "„Интересува ме“: literally 'it interests me' – the thing is the subject and the person is the object pronoun ме. Compare English 'I'm interested in'.",
+      "„Дайте предимство“: plural/polite imperative of дам (дай → дайте)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "подбор",
+        "en": "selection, curation",
+        "note": "masculine"
+      },
+      {
+        "bg": "предимство",
+        "en": "priority, advantage",
+        "note": "neuter; „давам предимство“ = to prioritise"
+      },
+      {
+        "bg": "препоръка",
+        "en": "recommendation",
+        "note": "feminine"
+      },
+      {
+        "bg": "фийд",
+        "en": "feed",
+        "note": "loanword used by Bulgarian internet users; also „лента“"
+      },
+      {
+        "bg": "различавам се",
+        "en": "to differ",
+        "note": "„с какво се различават“ = how are they different"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 44,
+    "speaker": "Host",
+    "english": "All right, so this strategy is proposed more as a question in this post, but it's kind of clear what the underlying strategy is that's being implicated, which is to seek out places where content is being curated and recommended by other humans and not algorithms. So I looked at some of the replies to this question, because he posed this advice as a question. People wrote in with a lot of interesting suggestions about where you can still find human curation for content instead of algorithmic curation.",
+    "bulgarian_reference": "Добре, в този пост стратегията е зададена по-скоро като въпрос, но е доста ясно каква е стратегията зад него: да търсиш места, където съдържанието се подбира и препоръчва от други хора, а не от алгоритми. Затова погледнах някои от отговорите на въпроса, понеже той беше формулирал съвета си като въпрос. Хората бяха написали много интересни предложения къде все още може да се намери съдържание, подбрано от хора, а не от алгоритми.",
+    "grammar_notes": [
+      "„съдържанието се подбира и препоръчва“: се + 3rd person verb is the everyday passive – 'is (being) selected and recommended'.",
+      "„беше формулирал“, „бяха написали“: past perfect (бях + participle) – something done before another past moment."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "съдържание",
+        "en": "content",
+        "note": "neuter; used for online content"
+      },
+      {
+        "bg": "подбера / подбирам",
+        "en": "to select, to curate",
+        "note": ""
+      },
+      {
+        "bg": "понеже",
+        "en": "because, since",
+        "note": "a bit more colloquial than защото"
+      },
+      {
+        "bg": "предложение",
+        "en": "suggestion",
+        "note": "neuter; also 'sentence' and 'proposal'"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 45,
+    "speaker": "Host",
+    "english": "I'm going to read you some of the responses from farther down in this thread. All right. Someone said, \"Your local newspaper is probably a good place to start. Some of my local newspapers recommend restaurants, shows, concerts, art, pop-ups, books, movies, etc. It's likely a staff writer doing the recommendation.\"",
+    "bulgarian_reference": "Ще ви прочета някои от отговорите по-надолу в тази тема. Добре. Някой беше написал: „Местният ви вестник вероятно е добро място за начало. Някои от местните ми вестници препоръчват ресторанти, представления, концерти, изкуство, временни събития, книги, филми и т.н. Вероятно препоръките ги прави някой от журналистите в редакцията.“",
+    "grammar_notes": [
+      "„препоръките ги прави“: when the object comes first for emphasis, Bulgarian repeats it with a short pronoun (ги). This 'clitic doubling' is very typical of speech."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "местен",
+        "en": "local",
+        "note": "местният (full article), местните (plural)"
+      },
+      {
+        "bg": "редакция",
+        "en": "newsroom, editorial office",
+        "note": "feminine"
+      },
+      {
+        "bg": "и т.н.",
+        "en": "etc.",
+        "note": "read „и така нататък“"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 46,
+    "speaker": "Host",
+    "english": "\"What makes them different from algorithmic recommendations is that they're usually more interesting. Humans are weird, and we have such different tastes. It's cool to hear from other people about what they enjoy. That's not something the algorithm can ever really replace.\" Someone else said libraries are an interesting one. Another person said cultural events are a great opportunity.",
+    "bulgarian_reference": "„Различното спрямо алгоритмичните препоръки е, че обикновено са по-интересни. Хората са странни и имаме толкова различни вкусове. Готино е да чуеш от други хора какво им харесва. Това е нещо, което алгоритъмът никога не може наистина да замени.“ Друг беше написал, че библиотеките са интересен вариант. Трети – че културните събития са чудесна възможност.",
+    "grammar_notes": [
+      "„Различното“: an adjective with the article becomes a noun – 'the different thing / what's different'.",
+      "„Трети – че...“: the dash replaces a repeated verb (беше написал). Very common in spoken and written Bulgarian."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "спрямо",
+        "en": "compared to, in relation to",
+        "note": "preposition"
+      },
+      {
+        "bg": "странен",
+        "en": "weird, strange",
+        "note": ""
+      },
+      {
+        "bg": "заменя / заменям",
+        "en": "to replace",
+        "note": ""
+      },
+      {
+        "bg": "вкус",
+        "en": "taste",
+        "note": "masculine; plural вкусове"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 47,
+    "speaker": "Host",
+    "english": "Someone else said, \"I spend a lot of time at the local library and local bookstores. One of the bookstores sells blind date with a book things, so I found a lot of gems I wouldn't have usually picked up through those.\" Our local bookstore, People's Book here in Takoma Park, does that. The books are wrapped in newspaper. You don't know what it is.",
+    "bulgarian_reference": "Някой друг беше написал: „Прекарвам много време в местната библиотека и в местните книжарници. Една от книжарниците продава едни такива „сляпа среща с книга“, така че открих много бисери, които обикновено не бих взел.“ Нашата местна книжарница тук, в Такома Парк – People's Book – също го прави. Книгите са увити във вестник. Не знаеш каква е книгата.",
+    "grammar_notes": [
+      "„не бих взел“: conditional with бих for something that would not have happened otherwise – 'I wouldn't have picked up'.",
+      "„са увити“: съм + passive participle (увит, from увия) describes a state – 'are wrapped'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "прекарвам / прекарам",
+        "en": "to spend (time)",
+        "note": "for money: харча"
+      },
+      {
+        "bg": "книжарница",
+        "en": "bookshop",
+        "note": "feminine; don't confuse with библиотека = library"
+      },
+      {
+        "bg": "бисер",
+        "en": "gem, pearl",
+        "note": "masculine; figuratively a hidden gem"
+      },
+      {
+        "bg": "увия / увивам",
+        "en": "to wrap",
+        "note": ""
+      }
+    ],
+    "background": "A 'blind date with a book' is when a shop wraps a book in paper, often with a few hint words, so you buy it without seeing the title. Takoma Park is Cal's hometown in Maryland, near Washington, D.C."
+  },
+  {
+    "index": 48,
+    "speaker": "Host",
+    "english": "You just buy it and they've curated it and you just read it. Other people say, I do books by mail with librarians' picks, and I go to the antique mall. Someone else said, podcasts for sure: my favorite podcasters are always having an interesting guest on, and I get into their work too. Someone else said, our university radio station has volunteer DJs and a mission to play community programming. It has everything from language programs and genre specials to local bands. All right, those are all really good suggestions.",
+    "bulgarian_reference": "Просто го купуваш, те вече са го подбрали и ти просто го четеш. Други казват: „Получавам книги по пощата, подбрани от библиотекари, и ходя на антикварен пазар.“ Някой друг писа: „Подкастите, определено – любимите ми подкастъри постоянно канят интересни гости и после започвам да следя и тяхната работа.“ А друг каза: „Университетското ни радио има доброволци диджеи и мисията му е да пуска програми за общността. Има всичко – от езикови предавания и тематични специални епизоди до местни групи.“ Добре, всичко това са наистина добри предложения.",
+    "grammar_notes": [
+      "„са го подбрали“: perfect tense (съм + past participle) for a finished action whose result matters now – 'they have curated it'. The clitic „го“ sits between „са“ and the participle.",
+      "„подбрани от библиотекари“: a passive participle used like an adjective, agreeing in plural with „книги“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "определено",
+        "en": "definitely, for sure",
+        "note": "very common in spoken Bulgarian"
+      },
+      {
+        "bg": "доброволец",
+        "en": "volunteer",
+        "note": "masculine; plural доброволци"
+      }
+    ],
+    "background": "Cal is reading replies from an online discussion (a Reddit thread) where people shared ways to find books, music and ideas through people rather than algorithms."
+  },
+  {
+    "index": 49,
+    "speaker": "Host",
+    "english": "So what do I like about this advice? I think human curation is often much better than algorithmic curation, right? Because algorithmic curation is trying to build a model of your responses and just show you the things it knows for sure are going to give you a good positive reward response. Those can be things that are very similar to things you've seen recently, with some random exploration thrown in there. You're much more likely to find whole new categories of things you didn't even know about but might like by following chains of human curation. So I think that's important.",
+    "bulgarian_reference": "И какво ми харесва в този съвет? Мисля, че подборът от хора често е много по-добър от подбора от алгоритъм, нали? Защото алгоритъмът се опитва да изгради модел на реакциите ти и просто да ти показва неща, за които е сигурен, че ще ти донесат приятно, положително усещане за награда. Това може да са неща, много подобни на тези, които си гледал наскоро, с малко случайно проучване отгоре. Много по-вероятно е да откриеш цели нови категории неща, за които дори не си знаел, но които може да ти харесат, ако следваш вериги от препоръки на хора. Затова мисля, че това е важно.",
+    "grammar_notes": [
+      "„ми харесва“: 'I like' is literally 'it pleases me' – the thing liked is the subject and the person is the dative clitic „ми“.",
+      "„по-добър“, „по-вероятно“: comparatives are formed with the prefix „по-“ plus a hyphen."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "изградя / изграждам",
+        "en": "to build",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "награда",
+        "en": "reward, prize",
+        "note": "feminine"
+      },
+      {
+        "bg": "наскоро",
+        "en": "recently",
+        "note": ""
+      },
+      {
+        "bg": "верига",
+        "en": "chain",
+        "note": "feminine; also used for store chains"
+      }
+    ],
+    "background": "Cal Newport, a computer science professor and author of 'Digital Minimalism', often argues that recommendation algorithms optimise for engagement rather than for discovery."
+  },
+  {
+    "index": 50,
+    "speaker": "Host",
+    "english": "We get more pleasure out of things we have reason to consume and enjoy, right? So knowing that there's someone out there who really recommended this song or movie means that we, as social beings, get more satisfaction out of it. We're willing to take more risk and go through things that aren't just immediately pleasurable in the moment.",
+    "bulgarian_reference": "Получаваме повече удоволствие от неща, които имаме причина да консумираме и да харесваме, нали? Когато знаем, че някой някъде наистина ни е препоръчал тази песен или този филм, ние като социални същества изпитваме повече удовлетворение. По-склонни сме да рискуваме и да минем през неща, които не са приятни веднага, в момента.",
+    "grammar_notes": [
+      "„ни е препоръчал“: perfect tense; the dative clitic „ни“ goes before „е“ – 'has recommended to us'.",
+      "„да консумираме и да харесваме“: Bulgarian has no infinitive, so each verb gets its own „да“ + present form."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "удоволствие",
+        "en": "pleasure",
+        "note": "neuter"
+      },
+      {
+        "bg": "същество",
+        "en": "being, creature",
+        "note": "neuter"
+      },
+      {
+        "bg": "склонен съм",
+        "en": "to be willing, inclined",
+        "note": "„по-склонни сме“ = we're more willing"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 51,
+    "speaker": "Host",
+    "english": "I also have argued for a long time that human curation leads to interpersonal webs of trust, which is important. It impedes radicalization and other antisocial behavior that we see online. This is a key point, which I'll just say very briefly. But webs of trust are important, right? It's like, okay, I know this person and trust them, and they recommended that person. This person's recommending a movie or they have an opinion on something; I'm going to take that seriously. There's a chain of trust.",
+    "bulgarian_reference": "Отдавна твърдя също, че подборът от хора създава мрежи на доверие между хората, а това е важно. Така се пречи на радикализацията и на друго антисоциално поведение, което виждаме онлайн. Това е ключов момент, който ще спомена съвсем накратко. Но мрежите на доверие са важни, нали? Все едно: „Добре, познавам този човек и му имам доверие, а той ми препоръча онзи.“ Онзи препоръчва филм или има мнение за нещо – ще го приема сериозно. Има верига на доверие.",
+    "grammar_notes": [
+      "„Отдавна твърдя“: Bulgarian uses the present tense for something that started in the past and still continues, where English says 'I have argued for a long time'.",
+      "„ми препоръча“: aorist (simple past) of the perfective verb – a single finished action."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "твърдя",
+        "en": "to claim, to argue",
+        "note": "imperfective"
+      },
+      {
+        "bg": "доверие",
+        "en": "trust",
+        "note": "neuter; „имам доверие на някого“ = I trust someone"
+      },
+      {
+        "bg": "преча",
+        "en": "to hinder, to get in the way",
+        "note": "imperfective; takes „на“: „пречи на радикализацията“"
+      },
+      {
+        "bg": "накратко",
+        "en": "briefly, in short",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 52,
+    "speaker": "Host",
+    "english": "I trust another person I know. That person trusts this person. There's a chain of interpersonal trust. And because the origins of these chains, their first links, are people that you've met or known or have reason to like or trust, they lead you to places that are more trusted, and they keep you away from sort of weird places.",
+    "bulgarian_reference": "Имам доверие на друг човек, когото познавам. Той има доверие на този човек. Има верига от лично доверие. И понеже началото на тези вериги, първите им брънки, са хора, които си срещал, познаваш или имаш причина да харесваш и да им вярваш, те те водят към места, на които може повече да се вярва, и те държат далеч от някакви странни места.",
+    "grammar_notes": [
+      "„когото“: the object form of „който“ for people ('whom'). In speech many people say „който“, but „когото“ is the correct form here.",
+      "„те те водят“: the first „те“ is the subject 'they', the second is the short object pronoun 'you' – same spelling, different words."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "брънка",
+        "en": "link (in a chain)",
+        "note": "feminine"
+      },
+      {
+        "bg": "вярвам",
+        "en": "to believe, to trust",
+        "note": "imperfective; „вярвам на някого“ = I trust someone"
+      },
+      {
+        "bg": "държа далеч",
+        "en": "to keep away",
+        "note": "„държа“ is imperfective"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 53,
+    "speaker": "Host",
+    "english": "Human curation also moves away from the homogenized interfaces you see on things like social media platforms, where everything looks the same. Every tweet looks the exact same, whether it's from an esteemed music critic, or from an AI slop bot, or from some Ku Klux Klan member in a basement somewhere. It all looks the exact same.",
+    "bulgarian_reference": "Подборът от хора също така те отдалечава от еднаквите интерфейси, които виждаш в социалните мрежи, където всичко изглежда по един и същ начин. Всеки туит изглежда абсолютно еднакво – независимо дали е от уважаван музикален критик, от някой бот, който бълва AI боклуци, или от член на Ку Клукс Клан в някое мазе. Всичко изглежда абсолютно еднакво.",
+    "grammar_notes": [
+      "„независимо дали … или …“: 'whether … or …'. „дали“ introduces the alternatives.",
+      "„по един и същ начин“: 'in one and the same way' – a fixed phrase for 'the same'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "туит",
+        "en": "tweet",
+        "note": "masculine loanword; verb: туитвам"
+      },
+      {
+        "bg": "бълвам",
+        "en": "to spew, to churn out",
+        "note": "imperfective, colloquial and negative"
+      },
+      {
+        "bg": "мазе",
+        "en": "basement",
+        "note": "neuter, from Turkish"
+      }
+    ],
+    "background": "'AI slop' is a recent English term for low-quality mass-produced AI content."
+  },
+  {
+    "index": 54,
+    "speaker": "Host",
+    "english": "Whereas when you move into the more messy human world, there are all sorts of indicators that we're good at picking up of who this person is and what they believe. Are we on the same wavelength or not? And you're like, this guy who's trying to recommend this book is wearing a Klan hood and talks in a weird way, and his website's kind of messy. I'm not going to listen to that. So you get rid of this sort of homogenizing, this flattening of context that you get in social media as well.",
+    "bulgarian_reference": "Докато когато излезеш в по-хаотичния човешки свят, има всякакви сигнали, които умеем да улавяме – кой е този човек и в какво вярва. На една вълна ли сме или не? И си казваш: „Този тип, който се опитва да ми препоръча тази книга, носи качулка на Клана, говори странно и сайтът му е някак разхвърлян. Няма да го слушам.“ Така се отърваваш и от това уеднаквяване, от това изравняване на контекста, което има в социалните мрежи.",
+    "grammar_notes": [
+      "„На една вълна ли сме“: the question particle „ли“ comes right after the word being questioned – here the whole phrase 'on one wave'.",
+      "„Няма да го слушам“: negative future is „няма да“ + present, not „не ще“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "улавям / уловя",
+        "en": "to pick up, to catch",
+        "note": "imperfective / perfective"
+      },
+      {
+        "bg": "на една вълна сме",
+        "en": "we're on the same wavelength",
+        "note": "idiom, same image as in English"
+      },
+      {
+        "bg": "отърва се / отървавам се",
+        "en": "to get rid of",
+        "note": "perfective / imperfective; takes „от“"
+      },
+      {
+        "bg": "разхвърлян",
+        "en": "messy, untidy",
+        "note": "adjective"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 55,
+    "speaker": "Host",
+    "english": "So I really like human curation, webs of trust. I think a more human internet is actually a less radical, safer internet, and it's a more interesting internet. I just think it's better. All right. What don't I like? I don't know. Not much. I think human curation is great.",
+    "bulgarian_reference": "Така че много харесвам подбора от хора, мрежите на доверие. Мисля, че по-човешкият интернет всъщност е по-малко радикален, по-безопасен и по-интересен. Просто мисля, че е по-добър. Добре. Какво не ми харесва? Не знам. Не кой знае какво. Мисля, че подборът от хора е страхотен.",
+    "grammar_notes": [
+      "„по-малко радикален“: 'less' + adjective is „по-малко“ + adjective.",
+      "„по-човешкият интернет“: the definite article attaches to the first word of the phrase, here the comparative adjective."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "всъщност",
+        "en": "actually, in fact",
+        "note": ""
+      },
+      {
+        "bg": "не кой знае какво",
+        "en": "not much, nothing special",
+        "note": "fixed colloquial phrase"
+      },
+      {
+        "bg": "безопасен",
+        "en": "safe",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 56,
+    "speaker": "Host",
+    "english": "Except for libraries. I think we should start to hate libraries, Jesse, like in the TV show Parks and Rec, where they just have a hatred of libraries. And I'll tell you why. I want people to buy my books. I don't want them to borrow my books. I want them to pay for my books.",
+    "bulgarian_reference": "Освен библиотеките. Мисля, че трябва да започнем да мразим библиотеките, Джеси, като в сериала „Паркове и развлечения“, където просто мразят библиотеките. И ще ти кажа защо. Искам хората да си купуват книгите ми. Не искам да ги заемат. Искам да си плащат за книгите ми.",
+    "grammar_notes": [
+      "„Искам хората да си купуват“: 'I want X to do Y' = „искам“ + X + „да“ + present. The imperfective „купуват“ describes a general habit.",
+      "„книгите ми“: possessive clitic after a definite noun – 'my books'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "мразя",
+        "en": "to hate",
+        "note": "imperfective"
+      },
+      {
+        "bg": "заема / заемам",
+        "en": "to borrow; to lend",
+        "note": "perfective / imperfective; context decides the direction"
+      },
+      {
+        "bg": "сериал",
+        "en": "TV series",
+        "note": "masculine"
+      }
+    ],
+    "background": "In the US sitcom 'Parks and Recreation', the parks department has a running joke about hating the public library department. Cal Newport is an author of several bestselling books."
+  },
+  {
+    "index": 57,
+    "speaker": "Cohost",
+    "english": "Even though you go to the library a decent amount, don't you?",
+    "bulgarian_reference": "Въпреки че ти ходиш доста често в библиотеката, нали?",
+    "grammar_notes": [
+      "„Въпреки че“: 'even though', always written as two words."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "въпреки че",
+        "en": "even though, although",
+        "note": ""
+      },
+      {
+        "bg": "доста",
+        "en": "quite, fairly",
+        "note": "very common: „доста често“ = quite often"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 58,
+    "speaker": "Host",
+    "english": "I do. I know. I like libraries, but I feel like I should dislike them. Be like, no, you should have multiple copies of books, and if you lose one, you just buy another copy. I mean, libraries buy a lot of copies of books too, because they have to stock a bunch. But yeah, whenever my wife's like, no, the library is great because you don't have to spend all this money and you can hand it back, I'm like, no, support authors. Buy as many books as you can. Full retail, hardcover. All right, but I'll give that an A.",
+    "bulgarian_reference": "Ходя. Знам. Харесвам библиотеките, но имам чувството, че трябва да не ги харесвам. Нещо като: „Не, трябва да имаш по няколко копия от книгите и ако изгубиш едно, просто си купуваш ново.“ Всъщност и библиотеките купуват много бройки, защото трябва да имат наличност. Но да – всеки път, когато жена ми каже: „Не, библиотеката е страхотна, защото не харчиш толкова пари и после просто я връщаш“, аз ѝ казвам: „Не, подкрепяй авторите. Купувай колкото можеш повече книги. На пълна цена, с твърди корици.“ Добре, но ще му дам шестица.",
+    "grammar_notes": [
+      "„Ходя.“: Bulgarian answers 'I do' by repeating the verb, not with a helper verb.",
+      "„когато жена ми каже“: after „когато“ Bulgarian uses the perfective present („каже“) for a single completed event, even in a repeated situation.",
+      "„аз ѝ казвам“: „ѝ“ (with the grave accent) is the short dative 'to her', distinct from the conjunction „и“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "изгубя / губя",
+        "en": "to lose",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "харча / похарча",
+        "en": "to spend (money)",
+        "note": "imperfective / perfective"
+      },
+      {
+        "bg": "подкрепям / подкрепя",
+        "en": "to support",
+        "note": "imperfective / perfective"
+      },
+      {
+        "bg": "корица",
+        "en": "cover (of a book)",
+        "note": "feminine; „твърди корици“ = hardcover"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 59,
+    "speaker": "Host",
+    "english": "All right, strategy number five: remove discipline from the equation. Let me read from the post here. \"It's not about using your phone less in some abstract way. It's about whether you're choosing it or just reaching for it on autopilot. And for me, the morning was always pure autopilot. Grab phone, scroll. Then suddenly 40 minutes are gone and I haven't had a single thought of my own yet.\"",
+    "bulgarian_reference": "Добре, стратегия номер пет: махнете дисциплината от уравнението. Ще прочета от поста. „Въпросът не е да ползваш телефона по-малко в някакъв абстрактен смисъл. Въпросът е дали ти го избираш, или просто посягаш към него на автопилот. А при мен сутринта винаги беше чист автопилот. Грабваш телефона, скролваш. И изведнъж 40 минути са минали, а още не си имал нито една собствена мисъл.“",
+    "grammar_notes": [
+      "„махнете“: imperative plural/polite of the perfective „махна“ – a general instruction to listeners.",
+      "„сутринта винаги беше“: imperfect tense („беше“) for a repeated past state, 'was always'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "посягам / посегна",
+        "en": "to reach for",
+        "note": "imperfective / perfective; takes „към“"
+      },
+      {
+        "bg": "грабна / грабвам",
+        "en": "to grab",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "изведнъж",
+        "en": "suddenly",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 60,
+    "speaker": "Host",
+    "english": "\"The thing is, I tried to fix it the willpower way for ages. Leave it across the room. Tell myself I won't check it until 9, et cetera. And I lasted about two days every time I tried. What finally worked was just making the decision once.\"",
+    "bulgarian_reference": "„Работата е там, че с години се опитвах да го оправя със сила на волята. Оставях го в другия край на стаята. Казвах си, че няма да го поглеждам до 9 и т.н. И издържах около два дни всеки път, когато опитвах. Това, което накрая проработи, беше просто да взема решението веднъж.“",
+    "grammar_notes": [
+      "„Оставях“, „Казвах си“, „опитвах“: imperfect tense of imperfective verbs for repeated past actions; „проработи“ is aorist for the one moment it finally worked.",
+      "„Работата е там, че …“: a very common spoken way to say 'the thing is …'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "проработя",
+        "en": "to start working (finally)",
+        "note": "perfective; the prefix „про-“ marks the beginning"
+      },
+      {
+        "bg": "взема решение",
+        "en": "to make a decision",
+        "note": "perfective; imperfective: вземам решение"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 61,
+    "speaker": "Host",
+    "english": "\"I have my phone locked overnight now, so I physically can't get in first thing. And really, that's been so much easier than trying to resist it every single morning, because there's no resisting involved. The choice is already made. I wake up, the phone's just not an option for a while, and the morning is mine. Genuinely, the biggest shift has been realizing how much of the discipline stuff I was failing at could just be removed as a decision rather than fought as a habit.\"",
+    "bulgarian_reference": "„Сега телефонът ми е заключен през нощта, така че физически не мога да вляза в него още с ставането. И честно, това е много по-лесно, отколкото всяка сутрин да се опитвам да устоя, защото няма нищо за устояване. Изборът вече е направен. Събуждам се, телефонът известно време просто не е вариант, и сутринта е моя. Наистина, най-голямата промяна беше да осъзная колко от нещата с дисциплината, в които се провалях, могат просто да се махнат с едно решение, вместо да се боря с тях като с навик.“",
+    "grammar_notes": [
+      "„е заключен“, „е направен“: съм + passive participle describes a resulting state – 'is locked', 'is made'.",
+      "„отколкото да се опитвам“: after a comparative, 'than doing X' is „отколкото“ + да-clause."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "заключа / заключвам",
+        "en": "to lock",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "проваля се / провалям се",
+        "en": "to fail",
+        "note": "perfective / imperfective"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 62,
+    "speaker": "Host",
+    "english": "All right, so I think we can generalize this advice by saying: when it comes to controlling your digital habits, try to take discipline out of your digital minimalism equation as much as possible, right? If you have to apply willpower to resist an otherwise compelling activity, you will fail eventually. It's draining. You'll succeed sometimes, but you're not going to be able to succeed with that consistently. So finding ways to avoid that, I think, is important.",
+    "bulgarian_reference": "Добре, мисля, че можем да обобщим съвета така: когато става дума за контрол над дигиталните ти навици, опитай се колкото се може повече да махнеш дисциплината от уравнението на дигиталния минимализъм, нали? Ако трябва да използваш сила на волята, за да устоиш на нещо, което иначе е много примамливо, рано или късно ще се провалиш. Изтощително е. Понякога ще успяваш, но няма да можеш да успяваш постоянно. Затова мисля, че е важно да намериш начини да избегнеш това.",
+    "grammar_notes": [
+      "„когато става дума за“: fixed phrase for 'when it comes to'.",
+      "„ще успяваш“ vs „ще се провалиш“: imperfective future for repeated successes, perfective future for the one eventual failure."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "примамлив",
+        "en": "tempting, enticing",
+        "note": ""
+      },
+      {
+        "bg": "рано или късно",
+        "en": "sooner or later",
+        "note": "idiom"
+      },
+      {
+        "bg": "изтощителен",
+        "en": "exhausting, draining",
+        "note": ""
+      }
+    ],
+    "background": "Digital minimalism is Cal Newport's philosophy, from his 2019 book of the same name, of using technology only in ways that clearly serve your values."
+  },
+  {
+    "index": 63,
+    "speaker": "Host",
+    "english": "To name some other examples: landlining, like I talked about, works. The phone's just not with you; it's in the kitchen. So when you're watching TV or having dinner, you can't easily grab it. That's much easier than trying to resist grabbing it. Using strong screen control software like a Brick, or giving your partner access to your screen time so they have the PIN code, that works too. You're like, I just don't have the option of using this right now, unless I really got into it and tried to hack the security grid.",
+    "bulgarian_reference": "Ето още примери: „стационарният телефон“, за който говорих, работи. Телефонът просто не е в теб – в кухнята е. Така че докато гледаш телевизия или вечеряш, не можеш лесно да го грабнеш. Това е много по-лесно, отколкото да се опитваш да не го грабнеш. Ефективен е и сериозен софтуер за контрол на екранното време, като Brick, или да дадеш на партньора си достъпа до екранното ти време, така че той да знае ПИН кода. И това работи. Казваш си: „Просто нямам възможност да го ползвам в момента“ – освен ако наистина не се захвана и не се опитам да хакна защитата.",
+    "grammar_notes": [
+      "„освен ако … не“: 'unless' is „освен ако“, and Bulgarian adds „не“ to the verb even though the meaning is positive.",
+      "„не е в теб“: colloquially 'on you / with you' is „в теб“ ('I don't have it on me' = „не е в мен“)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "вечерям",
+        "en": "to have dinner",
+        "note": "imperfective; from „вечеря“ = dinner"
+      },
+      {
+        "bg": "екранно време",
+        "en": "screen time",
+        "note": "neuter phrase, calque of the English term"
+      },
+      {
+        "bg": "захвана се / захващам се",
+        "en": "to get down to, to set about",
+        "note": "perfective / imperfective, colloquial"
+      },
+      {
+        "bg": "хакна / хаквам",
+        "en": "to hack",
+        "note": "perfective / imperfective loanword"
+      }
+    ],
+    "background": "'Landlining' is Cal's term for keeping your smartphone plugged in at a fixed spot at home, like an old landline. Brick is a small physical device that locks chosen apps until you tap your phone on it."
+  },
+  {
+    "index": 64,
+    "speaker": "Host",
+    "english": "Taking social media, or any other application where they make money off your attention, off your phone also helps. You're making the decision for yourself once, as opposed to having to resist clicking on those apps every time you're there. So what I like about this is that I just agree that willpower-based restrictions will eventually fail. How long it takes depends on other factors, but they will eventually fail.",
+    "bulgarian_reference": "Помага и да махнеш от телефона социалните мрежи или всяко друго приложение, което печели от вниманието ти. Така вземаш решението веднъж, вместо всеки път да трябва да се сдържаш да не цъкнеш на тези приложения. Това, което ми харесва тук, е, че съм напълно съгласен, че ограниченията, основани на силата на волята, рано или късно се провалят. Колко време ще отнеме, зависи от други неща, но в крайна сметка се провалят.",
+    "grammar_notes": [
+      "„да се сдържаш да не цъкнеш“: two da-clauses in a row; „не“ goes right after the second „да“.",
+      "„съм съгласен“: 'I agree' is 'I am agreed' – an adjective with „съм“; feminine: съм съгласна."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "приложение",
+        "en": "app, application",
+        "note": "neuter; the normal word for a phone app"
+      },
+      {
+        "bg": "цъкна / цъкам",
+        "en": "to click, to tap",
+        "note": "perfective / imperfective, colloquial"
+      },
+      {
+        "bg": "сдържам се / сдържа се",
+        "en": "to hold oneself back",
+        "note": "imperfective / perfective"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 65,
+    "speaker": "Host",
+    "english": "Maybe some things I don't like: it's kind of like putting elaborate locks on your junk food cabinet. Eventually you want to permanently and sustainably change your eating habits, not just have more rules in place to make it harder for you to get access to the junk food. So this is really, I think, a first step towards digital minimalism and not a permanent solution. So grade-wise, I will give this a B. This definitely helps, but it's not by itself a full answer.",
+    "bulgarian_reference": "А какво може би не ми харесва: малко е като да сложиш сложни ключалки на шкафа с боклучавата храна. В крайна сметка искаш да промениш хранителните си навици трайно и устойчиво, а не просто да имаш повече правила, които да ти пречат да стигнеш до боклучавата храна. Така че мисля, че това всъщност е първа стъпка към дигиталния минимализъм, а не постоянно решение. Като оценка ще му дам петица. Определено помага, но само по себе си не е пълен отговор.",
+    "grammar_notes": [
+      "„хранителните си навици“: the reflexive possessive „си“ ('your own') refers back to the subject of the clause.",
+      "„правила, които да ти пречат“: a relative clause with „да“ expresses purpose – 'rules meant to stop you'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "ключалка",
+        "en": "lock",
+        "note": "feminine"
+      },
+      {
+        "bg": "боклучава храна",
+        "en": "junk food",
+        "note": "colloquial; „боклук“ = rubbish"
+      },
+      {
+        "bg": "трайно",
+        "en": "permanently, lastingly",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 66,
+    "speaker": "Host",
+    "english": "All right, let's do one last piece of advice from the discussion boards here before we get to my missing chapter. Our final strategy: schedule intentional solitude. Let me read from the post here. \"Most digital minimalism experiments focus on screen time as the target. I flipped it. For 30 days, I scheduled blocks of completely alone time: no phone, no background noise, no productive activity, just sitting with my own thoughts. And I let screen time be whatever side effect it was going to be.\"",
+    "bulgarian_reference": "Добре, нека вземем още един последен съвет от форумите, преди да стигнем до моята липсваща глава. Последната ни стратегия: планирайте съзнателно време насаме. Ще прочета от поста. „Повечето експерименти с дигитален минимализъм се целят в екранното време. Аз го обърнах. В продължение на 30 дни си планирах блокове време напълно сам – без телефон, без фонов шум, без продуктивни занимания, просто седях с мислите си. А екранното време го оставих да бъде какъвто страничен ефект се получи.“",
+    "grammar_notes": [
+      "„нека вземем“: „нека“ + present = 'let's …'.",
+      "„екранното време го оставих“: when the object is put first for emphasis, Bulgarian repeats it with a clitic („го“) – clitic doubling."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "насаме",
+        "en": "alone, in private",
+        "note": "adverb; „време насаме“ = time alone"
+      },
+      {
+        "bg": "обърна / обръщам",
+        "en": "to flip, to turn over",
+        "note": "perfective / imperfective"
+      }
+    ],
+    "background": "Solitude, time alone with your own thoughts, is a central idea in Cal's book 'Digital Minimalism'. The 'missing chapter' is the segment he announces next in the episode."
+  },
+  {
+    "index": 67,
+    "speaker": "Host",
+    "english": "\"Here are the results after 30 days. Screen time dropped from around 6.2 hours a day to 1.4 hours a day, and this was the side effect, not the goal. Time to fall asleep dropped from 45-plus minutes to roughly 10. A low-grade anxiety I'd basically normalized was mostly gone by week three.\"",
+    "bulgarian_reference": "„Ето резултатите след 30 дни. Екранното време падна от около 6,2 часа на ден на 1,4 часа на ден – и това беше страничният ефект, не целта. Времето, за което заспивам, спадна от над 45 минути до около 10. Една лека постоянна тревожност, която практически бях приел за нормална, почти изчезна до третата седмица.“",
+    "grammar_notes": [
+      "„6,2 часа“: Bulgarian writes a decimal comma, and after numbers masculine nouns take the count form „часа“, not „часове“.",
+      "„бях приел“: past perfect (бях + participle) – something that had already happened before another past moment."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "заспя / заспивам",
+        "en": "to fall asleep",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "тревожност",
+        "en": "anxiety",
+        "note": "feminine"
+      },
+      {
+        "bg": "изчезна / изчезвам",
+        "en": "to disappear",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "цел",
+        "en": "goal, aim",
+        "note": "feminine, despite ending in a consonant"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 68,
+    "speaker": "Host",
+    "english": "\"What surprised me most: the hard part wasn't avoiding the phone. It was sitting with boredom long enough for it to turn into actual thought. We've engineered boredom out of our lives so completely that most of us have forgotten what's on the other side of it. Following a small framework for structuring these solitude blocks made the difference between this feeling restorative versus just feeling like forced isolation.\"",
+    "bulgarian_reference": "„Кое ме изненада най-много: трудното не беше да не посягам към телефона. Беше да изтърпя скуката достатъчно дълго, че да се превърне в истинска мисъл. Толкова старателно сме изкоренили скуката от живота си, че повечето от нас са забравили какво има от другата ѝ страна. Една малка рамка за това как да организирам тези блокове време насаме направи разликата това да е възстановяващо, а не просто принудителна изолация.“",
+    "grammar_notes": [
+      "„трудното“: an adjective with the article becomes a noun – 'the hard part'.",
+      "„Толкова … , че …“: 'so … that …'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "изненадам / изненадвам",
+        "en": "to surprise",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "скука",
+        "en": "boredom",
+        "note": "feminine; adjective: скучен"
+      },
+      {
+        "bg": "изтърпя / търпя",
+        "en": "to endure, to put up with",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "изкореня / изкоренявам",
+        "en": "to uproot, to eradicate",
+        "note": "perfective / imperfective; from „корен“ = root"
+      },
+      {
+        "bg": "рамка",
+        "en": "framework; frame",
+        "note": "feminine"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 69,
+    "speaker": "Host",
+    "english": "Naturally, I was fascinated. He had referenced a small framework for structuring solitude blocks, and he elaborated on it farther down in the thread, where he said: \"The short version is that I stopped treating solitude blocks as time to fill and started treating them as time to not fill, on purpose, with a couple of constraints around it. The fix for me was shorter blocks, 20 to 25 minutes, not open-ended, with literally nothing to do. No phones, no chores, just sitting. It feels unbearable for the first few minutes, then something shifts.\"",
+    "bulgarian_reference": "Естествено, бях заинтригуван. Той беше споменал малка рамка за организиране на тези блокове време насаме и я обясни по-подробно по-надолу в дискусията, където написа: „Накратко – спрях да гледам на тези блокове като на време, което трябва да запълня, и започнах да ги приемам като време, което нарочно не запълвам, с няколко ограничения около него. Решението за мен бяха по-кратки блокове – 20–25 минути, а не без край, в които буквално нямаш какво да правиш. Без телефони, без домакинска работа, просто седиш. Първите няколко минути ти се струва непоносимо, а после нещо се променя.“",
+    "grammar_notes": [
+      "„спрях да гледам … започнах да ги приемам“: aorist of „спра“ and „започна“ + да-clause for 'stopped doing / started doing'.",
+      "„ти се струва“: 'it seems to you' – impersonal „струва ми се“ with the dative clitic."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "спомена / споменавам",
+        "en": "to mention",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "нарочно",
+        "en": "on purpose, deliberately",
+        "note": ""
+      },
+      {
+        "bg": "домакинска работа",
+        "en": "chores, housework",
+        "note": "feminine phrase"
+      },
+      {
+        "bg": "непоносим",
+        "en": "unbearable",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 70,
+    "speaker": "Host",
+    "english": "All right, I think there are some key inversions in here of the digital declutter that I proposed in my book, because it doesn't directly focus on your technology.",
+    "bulgarian_reference": "Добре, мисля, че тук има някои ключови обрати спрямо дигиталното разчистване, което предложих в книгата си, защото това не се фокусира пряко върху технологиите ти.",
+    "grammar_notes": [
+      "„предложих“: aorist of the perfective „предложа“ – a finished past action (in the book)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "разчистване",
+        "en": "decluttering, clearing out",
+        "note": "neuter; verb: разчистя / разчиствам"
+      },
+      {
+        "bg": "обрат",
+        "en": "reversal, twist",
+        "note": "masculine"
+      },
+      {
+        "bg": "спрямо",
+        "en": "compared to, in relation to",
+        "note": "preposition, slightly formal"
+      }
+    ],
+    "background": "In 'Digital Minimalism' Cal proposes a 30-day 'digital declutter': step away from optional technologies for a month, then reintroduce only those that truly add value."
+  },
+  {
+    "index": 71,
+    "speaker": "Host",
+    "english": "It instead focuses on what technology helps us escape. And by doing so, you end up spending less time on technology. It gets you alone with your own thoughts, the thing that we try to get away from with our devices. And once we make peace with that, we don't feel as compelled to try to flee it. We don't flee boredom. We don't flee being alone with our own thoughts.",
+    "bulgarian_reference": "Вместо това се фокусира върху онова, от което технологиите ни помагат да избягаме. И така в крайна сметка прекарваш по-малко време с технологиите. Оставя те насаме със собствените ти мисли – точно това, от което се опитваме да избягаме с устройствата си. А щом се примирим с това, вече нямаме такава нужда да бягаме от него. Не бягаме от скуката. Не бягаме от това да сме насаме със собствените си мисли.",
+    "grammar_notes": [
+      "„да избягаме“ (perfective, to get away once) vs „да бягаме“ (imperfective, to keep running away): same root, different aspect.",
+      "„щом се примирим“: щом + perfective present means 'once/as soon as we (have) come to terms'. The perfective present never stands alone as a real present."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "в крайна сметка",
+        "en": "in the end, ultimately",
+        "note": "very common filler-like phrase in speech"
+      },
+      {
+        "bg": "насаме",
+        "en": "alone, in private",
+        "note": "„насаме с мислите си“ = alone with your thoughts"
+      },
+      {
+        "bg": "примиря се / примирявам се",
+        "en": "to make peace with, to accept",
+        "note": "perfective / imperfective; takes „с“"
+      },
+      {
+        "bg": "устройство",
+        "en": "device",
+        "note": "neuter"
+      },
+      {
+        "bg": "скука",
+        "en": "boredom",
+        "note": "feminine; „скучно ми е“ = I'm bored"
+      }
+    ],
+    "background": "Cal is grading listener-submitted tips for being a digital minimalist in 2026. This one was to deliberately spend time being bored."
+  },
+  {
+    "index": 72,
+    "speaker": "Host",
+    "english": "And I like this, right? I think boredom cues are one of the major drivers to pick up a phone for simple distractions. So if you become more comfortable with boredom, the power of those cues diminishes and your phone becomes less desirable. That's exactly what we saw here in this example.",
+    "bulgarian_reference": "И това ми харесва, нали? Мисля, че сигналите за скука са един от основните подтици да посегнеш към телефона за някакво просто разсейване. Така че ако свикнеш повече със скуката, силата на тези сигнали отслабва и телефонът вече не е толкова привлекателен. Точно това видяхме и в този пример.",
+    "grammar_notes": [
+      "„ми харесва“: literally 'it pleases me'. The thing liked is the subject, the person is the dative clitic „ми“.",
+      "„видяхме“ is the aorist (simple past) of видя: a completed event, 'we saw'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "посегна / посягам",
+        "en": "to reach for",
+        "note": "„посягам към телефона“ = reach for my phone"
+      },
+      {
+        "bg": "разсейване",
+        "en": "distraction",
+        "note": "neuter; verb: разсейвам се = to get distracted"
+      },
+      {
+        "bg": "свикна / свиквам",
+        "en": "to get used to",
+        "note": "takes „с“: свиквам със скуката"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 73,
+    "speaker": "Host",
+    "english": "And as I write in Digital Minimalism, I have a whole chapter on this: solitude, that is, time alone with your own thoughts, is critical to personal development. And if you have no solitude in your life on a regular basis, it creates anxiety, which is exactly what this person responded: when they started putting solitude back, time alone with their own thoughts, their low-grade background anxiety went away. I get into that in the book. If you never have time just to be alone with your own thoughts and process what's going on in your life, you will be anxious. Your brain needs it. It gets exhausted without it.",
+    "bulgarian_reference": "И както пиша в „Дигитален минимализъм“ – там имам цяла глава за това – уединението, тоест времето насаме със собствените ти мисли, е изключително важно за личностното развитие. А ако в живота ти редовно няма уединение, това поражда тревожност. Точно това ни писа и този слушател: когато отново си е върнал уединението, времето насаме с мислите си, лекото фоново безпокойство е изчезнало. Разглеждам това в книгата. Ако никога нямаш време просто да останеш насаме със себе си и да осмислиш какво се случва в живота ти, ще бъдеш тревожен. Мозъкът ти има нужда от това. Без него се изтощава.",
+    "grammar_notes": [
+      "„си е върнал… е изчезнало“: the perfect tense (съм + past participle) is used for a result the speaker only heard about. Note the participle agrees: безпокойство (neuter) → изчезнало.",
+      "„мозъкът ти“: a possessive clitic (ти = your) goes after the noun with the definite article."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "уединение",
+        "en": "solitude",
+        "note": "neuter; more bookish than „да си насаме“"
+      },
+      {
+        "bg": "пораждам / породя",
+        "en": "to give rise to, to cause",
+        "note": "imperfective / perfective"
+      },
+      {
+        "bg": "осмисля / осмислям",
+        "en": "to make sense of, to process",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "изтощя се / изтощавам се",
+        "en": "to get exhausted",
+        "note": "adjective: изтощен"
+      }
+    ],
+    "background": "Digital Minimalism (2019) is Cal Newport's book; one chapter argues that 'solitude deprivation' is a hidden cost of constant phone use."
+  },
+  {
+    "index": 74,
+    "speaker": "Host",
+    "english": "I think something I don't like about this advice is that boredom is a strong cue, and I think about it in the same context as other strong cues like thirst. It's not intrinsically valuable on its own. It's valuable because of what it pushes us towards. So if you're thirsty, there's not a value just in being thirsty. The value is in drinking water, and this is a drive that drives you to this valuable thing.",
+    "bulgarian_reference": "Нещо, което не ми харесва в този съвет, е следното: скуката е силен сигнал и я разглеждам в същия контекст като други силни сигнали, например жаждата. Сама по себе си тя няма ценност. Ценна е заради това, към което ни тласка. Ако си жаден, в самата жажда няма никаква ценност. Ценността е в това да пиеш вода, а жаждата е подтикът, който те води към това ценно нещо.",
+    "grammar_notes": [
+      "„я разглеждам“: „я“ is the short object pronoun for a feminine noun (скуката). It comes before the verb.",
+      "„Сама по себе си“ (in itself) agrees in gender with скуката: сам (m), сама (f), само (n)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "жажда",
+        "en": "thirst",
+        "note": "feminine; adjective: жаден"
+      },
+      {
+        "bg": "тласкам / тласна",
+        "en": "to push, to drive",
+        "note": "imperfective / perfective"
+      },
+      {
+        "bg": "ценност",
+        "en": "value",
+        "note": "feminine; adjective: ценен"
+      },
+      {
+        "bg": "сам по себе си",
+        "en": "in itself, on its own",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 75,
+    "speaker": "Host",
+    "english": "Well, when you're bored, I don't think the boredom itself is intrinsically valuable. We feel boredom because it drives us to go do meaningful activity, and it's the meaningful activity that's actually the reward. So I think this advice, spending 20 minutes being bored, does get you more comfortable with boredom and being alone with your own thoughts, but I would elaborate it, and I would ride the boredom wave. When you feel bored, aim that boredom towards slower, more meaningful activities, and let that fulfill the sense of boredom. Close that habit cue-response loop.",
+    "bulgarian_reference": "Та когато ти е скучно, не мисля, че самата скука има ценност. Изпитваме скука, защото тя ни подтиква да се заемем с нещо смислено, а истинската награда е именно смисленото занимание. Така че според мен този съвет – да прекарваш по двайсет минути в скука – наистина те кара да свикнеш със скуката и с това да си насаме с мислите си, но аз бих го доразвил: бих яхнал вълната на скуката. Когато ти стане скучно, насочи тази скука към по-бавни и по-смислени занимания и ги остави те да я утолят. Затвори цикъла на навика: сигнал – реакция.",
+    "grammar_notes": [
+      "„ти е скучно“ / „ти стане скучно“: feelings are often impersonal with a dative clitic: 'to you it is boring' = you are bored.",
+      "„бих го доразвил“, „бих яхнал“: conditional = бих + past participle, 'I would expand / I would ride'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "смислен",
+        "en": "meaningful",
+        "note": "from смисъл (meaning, sense)"
+      },
+      {
+        "bg": "яхна / яхвам",
+        "en": "to mount, to ride (a horse, a wave)",
+        "note": "„яхвам вълната“ = ride the wave, used figuratively too"
+      },
+      {
+        "bg": "утоля / утолявам",
+        "en": "to quench, to satisfy",
+        "note": "classic collocation: утолявам жаждата си, which fits the thirst metaphor"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 76,
+    "speaker": "Host",
+    "english": "Now what's going to happen is you'll grow a new reward circuit here in your short-term reward center: when you feel that boredom, competing with the reward that looking at your phone will give you is, oh, if I go to a slow, meaningful activity, there's an even deeper reward I'm going to get. And you get more and more used to going and doing things that are actually rewarding as opposed to distracting.",
+    "bulgarian_reference": "И какво ще стане: в краткосрочния център за награда в мозъка ти ще се изгради нова верига. Когато усетиш скуката, наградата, която ти дава поглеждането на телефона, вече ще има конкурент – мисълта: „А, ако се заема с нещо бавно и смислено, ще получа още по-дълбока награда.“ И все повече свикваш да правиш неща, които наистина носят удовлетворение, а не просто те разсейват.",
+    "grammar_notes": [
+      "„ако се заема…, ще получа“: a real condition about the future uses ако + perfective present, then ще + verb.",
+      "„все повече“ = more and more; „още по-дълбока“ = even deeper (още strengthens the comparative по-)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "верига",
+        "en": "chain; (neural) circuit",
+        "note": "feminine; also a chain of shops"
+      },
+      {
+        "bg": "награда",
+        "en": "reward, prize",
+        "note": "feminine"
+      },
+      {
+        "bg": "удовлетворение",
+        "en": "satisfaction, fulfilment",
+        "note": "neuter; „носи удовлетворение“ = it's rewarding"
+      },
+      {
+        "bg": "изградя / изграждам",
+        "en": "to build up",
+        "note": "„ще се изгради“ = it will be built / will form"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 77,
+    "speaker": "Host",
+    "english": "So I don't think it should just be sitting with the boredom. You need to ride that boredom to see what it's pushing us towards, which is meaningful activity. All right, so I'm going to give this a B. I'm okay with this idea, but I would elaborate on it and add: after getting used to boredom, ride the boredom wave to meaningful activity. All right, there we go. That's the advice we found. Jesse, no D's.",
+    "bulgarian_reference": "Затова не мисля, че е достатъчно просто да седиш със скуката. Трябва да яхнеш тази скука, за да видиш към какво ни тласка – а то е смислената дейност. Добре, давам на този съвет петица. Съгласен съм с идеята, но бих я доразвил и бих добавил: след като свикнеш със скуката, яхни вълната ѝ към смислени занимания. Така, готово. Това са съветите, които намерихме. Джеси, нито една двойка.",
+    "grammar_notes": [
+      "„вълната ѝ“ = its wave: „ѝ“ (her/its) is the feminine possessive clitic, written with a grave accent to distinguish it from „и“ (and).",
+      "„след като свикнеш“: after след като you normally use the perfective, since the action must be finished first."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "дейност",
+        "en": "activity",
+        "note": "feminine, despite ending in a consonant"
+      },
+      {
+        "bg": "готово",
+        "en": "done, that's it",
+        "note": "neuter form used on its own as an exclamation"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 78,
+    "speaker": "Cohost",
+    "english": "No D's.",
+    "bulgarian_reference": "Нито една D.",
+    "grammar_notes": [
+      "„нито една“: 'not a single one', feminine because it refers to „оценка“. Masculine: нито един, neuter: нито едно."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "нито един / една / едно",
+        "en": "not a single one",
+        "note": "agrees with the noun it refers to"
+      },
+      {
+        "bg": "нито… нито…",
+        "en": "neither… nor…",
+        "note": "the other common use of нито"
+      }
+    ],
+    "background": "Jesse Skeen is the show's producer and Cal's regular sidekick on the podcast."
+  },
+  {
+    "index": 79,
+    "speaker": "Host",
+    "english": "Yeah, people are doing pretty well out there. No D's so far.",
+    "bulgarian_reference": "Да, хората се справят доста добре. Засега нито една D.",
+    "grammar_notes": [
+      "„се справят“: справям се is reflexive, so „се“ always comes with it; here it goes before the verb because a subject (хората) opens the sentence."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "справя се / справям се",
+        "en": "to cope, to manage, to do well",
+        "note": "„справям се с“ = to handle something"
+      },
+      {
+        "bg": "засега",
+        "en": "so far, for now",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 80,
+    "speaker": "Cohost",
+    "english": "Have you watched the Rafa documentary on Netflix?",
+    "bulgarian_reference": "Гледал ли си документалния филм за Рафа в Нетфликс?",
+    "grammar_notes": [
+      "„Гледал ли си“: the perfect tense asks about experience ('have you ever watched'). The question particle „ли“ comes right after the participle."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "документален филм",
+        "en": "documentary",
+        "note": "often shortened to „документалка“ in casual speech"
+      },
+      {
+        "bg": "гледам / изгледам",
+        "en": "to watch / to watch to the end",
+        "note": "изгледам = watch the whole thing"
+      }
+    ],
+    "background": "Rafa is the nickname of Spanish tennis champion Rafael Nadal."
+  },
+  {
+    "index": 81,
+    "speaker": "Host",
+    "english": "I don't think so. Rafael Nadal? The tennis player?",
+    "bulgarian_reference": "Не мисля. Рафаел Надал? Тенисистът ли?",
+    "grammar_notes": [
+      "„Тенисистът ли?“: „ли“ goes right after the word being questioned. „-ът“ is the full article, used for a masculine subject."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "тенисист",
+        "en": "tennis player",
+        "note": "feminine: тенисистка"
+      },
+      {
+        "bg": "не мисля",
+        "en": "I don't think so",
+        "note": "short, natural reply"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 82,
+    "speaker": "Cohost",
+    "english": "Yeah. There was a big...",
+    "bulgarian_reference": "Да. Имаше една голяма…",
+    "grammar_notes": [
+      "„имаше“ = there was/were: the past form of the impersonal „има“ (there is)."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "имаше",
+        "en": "there was, there were",
+        "note": "does not change for plural"
+      },
+      {
+        "bg": "един / една / едно",
+        "en": "one; also 'a' (indefinite)",
+        "note": "used like the English article 'a' in speech"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 83,
+    "speaker": "Host",
+    "english": "He's tall. That would be my documentary. It would cut to me as a talking head, and I'd be like, yeah, he's pretty tall. And then credits.",
+    "bulgarian_reference": "Висок е. Това щеше да е моят принос към документалния филм. Кадър с мен като интервюиран, а аз казвам: „Ами да, доста е висок.“ И после – финалните надписи.",
+    "grammar_notes": [
+      "„щеше да е“: future-in-the-past, here used for an imagined situation: 'that would be'.",
+      "„Висок е“: in short spoken sentences the verb „е“ often follows the adjective, and the subject is dropped."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "принос",
+        "en": "contribution",
+        "note": "masculine"
+      },
+      {
+        "bg": "кадър",
+        "en": "shot, frame (film)",
+        "note": "masculine; also slang for a person, 'a character'"
+      },
+      {
+        "bg": "надписи",
+        "en": "credits; captions",
+        "note": "plural of надпис (m); „финални надписи“ = end credits"
+      }
+    ],
+    "background": "A 'talking head' is a documentary interview shot. Cal jokes that all he would add is noticing that Nadal is tall."
+  },
+  {
+    "index": 84,
+    "speaker": "Cohost",
+    "english": "There was a big component about how he had serious anxiety for an extended period of time.",
+    "bulgarian_reference": "Голяма част от филма беше за това как дълго време е страдал от сериозна тревожност.",
+    "grammar_notes": [
+      "„беше“ is the past of съм; „е страдал“ is the perfect, used because it retells what the film reported about his life."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "част",
+        "en": "part",
+        "note": "feminine, ends in a consonant: частта"
+      },
+      {
+        "bg": "страдам от",
+        "en": "to suffer from",
+        "note": "imperfective"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 85,
+    "speaker": "Host",
+    "english": "Yeah, sports are so anxiety-producing.",
+    "bulgarian_reference": "Да, спортът поражда толкова много напрежение.",
+    "grammar_notes": [
+      "„спортът“: sport as a general idea takes the definite article in Bulgarian, where English uses no article."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "напрежение",
+        "en": "tension, stress, pressure",
+        "note": "neuter; also electrical voltage"
+      },
+      {
+        "bg": "толкова много",
+        "en": "so much",
+        "note": ""
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 86,
+    "speaker": "Cohost",
+    "english": "He always felt like he was choking.",
+    "bulgarian_reference": "Непрекъснато му се струваше, че ще се издъни под напрежението.",
+    "grammar_notes": [
+      "„му се струваше“: 'it seemed to him', an impersonal verb with a dative clitic (му) and „се“; the order is always му се."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "струва ми се",
+        "en": "it seems to me",
+        "note": "very frequent in speech"
+      },
+      {
+        "bg": "издъня се / издънвам се",
+        "en": "to screw up, to blow it",
+        "note": "colloquial; a good match for 'to choke' in sports"
+      },
+      {
+        "bg": "непрекъснато",
+        "en": "constantly, all the time",
+        "note": ""
+      }
+    ],
+    "background": "In sports slang, to 'choke' means to fail under pressure at a decisive moment."
+  },
+  {
+    "index": 87,
+    "speaker": "Host",
+    "english": "Yeah. I can imagine, all that pressure. I mean, athletes just get used to anxiety. Part of it is you're going to feel anxiety, and that's what people in plays do as well. Athletes, relief pitchers and stuff like that. You just sort of get used to it after a while.",
+    "bulgarian_reference": "Да. Представям си – целият този натиск. Искам да кажа, спортистите просто свикват с тревожността. Част от играта е, че ще изпитваш тревожност – същото важи и за актьорите в театъра. Спортистите, резервните питчъри в бейзбола и така нататък. След време някак просто свикваш.",
+    "grammar_notes": [
+      "„целият този натиск“: with „този“ the noun takes no article, but „цял“ (whole) before it does: целият."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "представя си / представям си",
+        "en": "to imagine",
+        "note": "reflexive dative „си“"
+      },
+      {
+        "bg": "натиск",
+        "en": "pressure",
+        "note": "masculine; social or physical pressure"
+      },
+      {
+        "bg": "важи за",
+        "en": "applies to, goes for",
+        "note": "„същото важи и за…“ = the same goes for…"
+      },
+      {
+        "bg": "и така нататък",
+        "en": "and so on",
+        "note": "abbreviated и т.н."
+      }
+    ],
+    "background": "In baseball, a relief pitcher comes into the game midway, often at the tensest moment."
+  },
+  {
+    "index": 88,
+    "speaker": "Host",
+    "english": "All right. So let's talk about what I would add. What missing chapter would I add into the book if I was republishing it today? There are three things. I was thinking about it last week. There are three things I for sure would want to put into a new chapter in Digital Minimalism. One, I would deal directly with AI, and I would say be wary of the diversionary allure of AI.",
+    "bulgarian_reference": "Добре. Да поговорим какво бих добавил аз. Каква липсваща глава бих включил в книгата, ако я преиздавах днес? Има три неща. Мислих за това миналата седмица. Има три неща, които определено бих искал да сложа в нова глава на „Дигитален минимализъм“. Първо – директно бих засегнал изкуствения интелект и бих казал: пазете се от примамката на ИИ като начин за бягство и разсейване.",
+    "grammar_notes": [
+      "„ако я преиздавах днес“: an unreal condition in the present uses ако + imperfect past form, with бих + participle in the main clause.",
+      "„Мислих“ is aorist: a finished stretch of thinking last week."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "преиздам / преиздавам",
+        "en": "to republish, to reissue",
+        "note": "noun: преиздание"
+      },
+      {
+        "bg": "засегна / засягам",
+        "en": "to touch on, to deal with (a topic); to offend",
+        "note": "„засегнах се“ = I felt offended"
+      },
+      {
+        "bg": "изкуствен интелект (ИИ)",
+        "en": "artificial intelligence",
+        "note": "many people also just say „AI“, pronounced „ей ай“"
+      },
+      {
+        "bg": "пазя се от",
+        "en": "to beware of, to guard against",
+        "note": "imperfective"
+      },
+      {
+        "bg": "примамка",
+        "en": "lure, bait",
+        "note": "feminine; adjective: примамлив = tempting"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 89,
+    "speaker": "Host",
+    "english": "And I would say long conversations with a machine are really a form of emotional fraud. If you're having a conversational interaction with a chatbot, your brain is simulating another mind on the other side that doesn't actually exist. And that's doing weird things to you. You're interacting with another mind, with all the social cues and social psychodynamics that go with such interactions, without another human mind on the other side. And I'd say, just don't do that. It's not your friend. Do not have relationships with AI.",
+    "bulgarian_reference": "И бих казал, че дългите разговори с машина всъщност са форма на емоционална измама. Когато си говориш с чатбот, мозъкът ти си представя, че от другата страна има друг ум, който в действителност не съществува. А това ти влияе по странен начин. Общуваш с друг ум – с всички социални сигнали и психологически динамики, които вървят с такова общуване – без от другата страна да има човешки ум. Затова казвам: просто не го прави. Не ти е приятел. Не влизай във връзка с изкуствен интелект.",
+    "grammar_notes": [
+      "„без… да има“: 'without there being' is без + да + verb, since Bulgarian has no infinitive or -ing form.",
+      "„Не ти е приятел“: in a negative sentence the clitics follow „не“: не + ти + е."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "измама",
+        "en": "fraud, deception, scam",
+        "note": "feminine; verb: измамя / мамя"
+      },
+      {
+        "bg": "чатбот",
+        "en": "chatbot",
+        "note": "loanword; you'll also hear „чат“ for ChatGPT-style tools"
+      },
+      {
+        "bg": "общувам",
+        "en": "to interact, to communicate (socially)",
+        "note": "noun: общуване"
+      },
+      {
+        "bg": "влизам във връзка с",
+        "en": "to get into a relationship with; to contact",
+        "note": "context decides which"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 90,
+    "speaker": "Host",
+    "english": "I would also say with respect to AI that writing is good for your cognitive fitness. Don't fear its hardness. Yeah, it feels bad to look at a blank page and have to fill it. And so it's tempting to say, can't AI just do this writing for me, and I'll just polish it a little bit and I'll avoid that feeling of strain? But I'm telling you, don't avoid that strain. It's like feeling the slight burn in your legs when you take the stairs instead of the escalator. It's good for you. Don't let AI write for you.",
+    "bulgarian_reference": "Що се отнася до изкуствения интелект, бих казал още, че писането е полезно за умствената ти форма. Не се плаши от това, че е трудно. Да, неприятно е да гледаш празната страница и да трябва да я запълниш. И е изкушаващо да си кажеш: „Не може ли ИИ просто да го напише вместо мен, а аз само малко да го излъскам и така да си спестя усилието?“ Но ти казвам: не бягай от това усилие. То е като лекото парене в краката, когато се качваш по стълбите, а не с ескалатора. Полезно ти е. Не оставяй ИИ да пише вместо теб.",
+    "grammar_notes": [
+      "Negative imperatives are normally imperfective: „не се плаши“, „не бягай“, „не оставяй“, not the perfective forms.",
+      "„Що се отнася до…“ = 'as for… / regarding…', a fixed phrase to introduce a topic."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "изкушаващ",
+        "en": "tempting",
+        "note": "from изкушавам (to tempt); noun: изкушение"
+      },
+      {
+        "bg": "излъскам / лъскам",
+        "en": "to polish",
+        "note": "literally shoes or cars; figuratively a text"
+      },
+      {
+        "bg": "спестя / спестявам",
+        "en": "to save, to spare",
+        "note": "„спестявам си усилието“ = spare myself the effort"
+      },
+      {
+        "bg": "усилие",
+        "en": "effort, strain",
+        "note": "neuter"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 91,
+    "speaker": "Host",
+    "english": "And certainly don't pass off text as if you wrote it if AI wrote it. If you're using AI to put together information to send to someone, it should be in a clear, sort of mechanical format, like a bullet point list or cells of a spreadsheet, not trying to simulate a human.",
+    "bulgarian_reference": "И в никакъв случай не представяй текст като свой, ако го е написал изкуственият интелект. Ако използваш ИИ, за да събереш информация, която да пратиш на някого, тя трябва да е в ясен, някак механичен формат – списък с точки или клетки в таблица – а не да се опитва да имитира човек.",
+    "grammar_notes": [
+      "„в никакъв случай не…“ = 'under no circumstances'. Bulgarian happily uses double negatives: никакъв + не.",
+      "„ако го е написал“: in the perfect, the object clitic „го“ comes before „е“."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "в никакъв случай",
+        "en": "by no means, certainly not",
+        "note": ""
+      },
+      {
+        "bg": "клетка",
+        "en": "cell (spreadsheet, biology); cage",
+        "note": "feminine"
+      },
+      {
+        "bg": "таблица",
+        "en": "table; spreadsheet",
+        "note": "feminine; Excel is often called just „Ексел“"
+      }
+    ],
+    "background": "The transcript is garbled here; 'cells of a spreadsheet' is the most likely reading."
+  },
+  {
+    "index": 92,
+    "speaker": "Host",
+    "english": "Finally, that AI portion of this missing chapter would say: only use AI tools for specific purposes where the benefits are clear. You are not part of the marketing department for these AI companies. You do not have to figure out and experiment how to make this useful. If you're not a computer programmer, you do not need to be learning how to use coding agents and command line interfaces right now to try to 10x your productivity. Use AI where there are clear benefits, not as a general substrate of your information ecosystem.",
+    "bulgarian_reference": "И накрая, частта за ИИ в тази липсваща глава би казвала: използвай инструментите с изкуствен интелект само за конкретни цели, при които ползата е очевидна. Ти не си част от маркетинговия отдел на тези компании. Не е нужно ти да експериментираш и да измисляш как да ги направиш полезни. Ако не си програмист, не е нужно точно сега да учиш как се работи с агенти за програмиране и с командния ред, за да удесетериш продуктивността си. Използвай ИИ там, където ползата е ясна, а не като обща основа на цялата си информационна среда.",
+    "grammar_notes": [
+      "„не е нужно да…“ = 'you don't need to…', followed by да + present tense.",
+      "„как се работи с…“: impersonal „се“ = 'how one works with…'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "отдел",
+        "en": "department",
+        "note": "masculine"
+      },
+      {
+        "bg": "команден ред",
+        "en": "command line",
+        "note": "IT people often just say „терминал“ or „конзола“"
+      },
+      {
+        "bg": "удесетеря / удесетерявам",
+        "en": "to multiply by ten",
+        "note": "a neat single-word match for the slang '10x'"
+      }
+    ],
+    "background": "Coding agents are AI tools that write and run code, typically from a terminal; '10x' is tech slang for boosting something tenfold."
+  },
+  {
+    "index": 93,
+    "speaker": "Host",
+    "english": "All right. The second thing I would have in this missing chapter, which was not in the original book: you might need help unwinding your digital addictions, and that's okay. I think my interview with Anna Lembke from, I don't know, a month ago or something like that, was very clarifying, because she was saying, look, these different addictions, substance or behavioral, do a similar thing. They downregulate dopamine receptors enough that it becomes hard to find motivation or engagement, or even just get back to a sense of normal without the hyperstimuli.",
+    "bulgarian_reference": "Добре. Второто нещо, което бих сложил в тази липсваща глава и което го нямаше в първоначалната книга: може да ти трябва помощ, за да се освободиш от дигиталните си зависимости – и това е нормално. Интервюто ми с Ана Лембке отпреди, не знам, месец или нещо такова, много ми изясни нещата, защото тя казваше: вижте, различните зависимости – от вещества или поведенчески – действат по сходен начин. Те притъпяват допаминовите рецептори дотолкова, че става трудно да намериш мотивация или ангажираност, или дори просто да се върнеш към усещането за нормалност без свръхстимулите.",
+    "grammar_notes": [
+      "„което го нямаше“: the object is repeated with the clitic „го“, a typical spoken doubling with „нямаше“ (there wasn't).",
+      "„може да ти трябва“ = 'you might need': може да + dative clitic + трябва (literally 'it may be necessary to you')."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "вещество",
+        "en": "substance",
+        "note": "neuter; plural вещества"
+      },
+      {
+        "bg": "освободя се / освобождавам се",
+        "en": "to free oneself",
+        "note": "takes „от“"
+      },
+      {
+        "bg": "притъпя / притъпявам",
+        "en": "to dull, to blunt",
+        "note": "used for senses and feelings"
+      },
+      {
+        "bg": "свръх-",
+        "en": "super-, hyper-, over-",
+        "note": "prefix: свръхстимул, свръхтегло"
+      }
+    ],
+    "background": "Anna Lembke is a Stanford psychiatrist and addiction specialist, author of Dopamine Nation (2021)."
+  },
+  {
+    "index": 94,
+    "speaker": "Host",
+    "english": "So if you have optimized TikTok videos, and you're looking at these when you feel a little bit of boredom, or to escape bad thoughts, or to try to feel better when you're tired or things are otherwise going hard, they're so highly stimulating that it downregulates your dopamine, and you need more and more of this more intense stimulation just to get back to normal. And now you can't put your phone away, and you feel terrible about it.",
+    "bulgarian_reference": "Та ако гледаш оптимизирани клипове в ТикТок, когато ти е малко скучно, или за да избягаш от лошите мисли, или за да се почувстваш по-добре, когато си уморен или нещата просто вървят трудно – те са толкова силно стимулиращи, че допаминовата ти система се притъпява и ти трябва все повече и все по-силна стимулация само за да се върнеш към нормалното. И вече не можеш да оставиш телефона и се чувстваш ужасно заради това.",
+    "grammar_notes": [
+      "„за да се почувстваш“: purpose = за да + perfective present. Perfective because it's about reaching a result.",
+      "„нормалното“: an adjective with the neuter article works as a noun, 'the normal (state)'."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "клип",
+        "en": "clip, short video",
+        "note": "masculine; standard word for TikTok or YouTube videos"
+      },
+      {
+        "bg": "почувствам се / чувствам се",
+        "en": "to feel (well, bad)",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "оставя / оставям",
+        "en": "to leave, to put down",
+        "note": "„оставям телефона“ = put the phone away"
+      },
+      {
+        "bg": "вървя",
+        "en": "to go, to walk",
+        "note": "„нещата вървят трудно“ = things are going hard"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 95,
+    "speaker": "Host",
+    "english": "It's hard to overcome that. You have to change the receptors over time. You have to take away the stimuli, you have to build up new stimuli, and you might need some help. This is not necessarily something that you can just white-knuckle. It's not just a character flaw that you should just buck up in response to. You should read her book, Dopamine Nation, for more on this, but in our interview she talked about the growing tech-addiction-oriented versions of AA as a big thing, and professional therapy with addiction specialists can really help you walk through this.",
+    "bulgarian_reference": "Трудно е да го преодолееш. Рецепторите трябва да се променят с времето. Трябва да махнеш стимулите, да изградиш нови и може да ти трябва помощ. Това не е задължително нещо, което можеш да изтраеш само със стиснати зъби. Не е просто недостатък на характера, на който да отговориш, като се стегнеш. Прочети книгата ѝ „Допаминова нация“, за да научиш повече, но в интервюто ни тя разказа, че все по-популярни стават групи по модела на „Анонимните алкохолици“, насочени към технологичната зависимост, а професионалната терапия със специалисти по зависимости наистина може да ти помогне да минеш през това.",
+    "grammar_notes": [
+      "„като се стегнеш“: като + present tense = 'by doing X' (by pulling yourself together).",
+      "„книгата ѝ“, „интервюто ни“: possessive clitics after an articled noun: her book, our interview."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "преодолея / преодолявам",
+        "en": "to overcome",
+        "note": "perfective / imperfective"
+      },
+      {
+        "bg": "със стиснати зъби",
+        "en": "with gritted teeth",
+        "note": "idiom close to 'white-knuckle it'"
+      },
+      {
+        "bg": "стегна се / стягам се",
+        "en": "to pull oneself together, to buck up",
+        "note": "„стегни се!“ = get a grip!"
+      },
+      {
+        "bg": "недостатък",
+        "en": "flaw, shortcoming",
+        "note": "masculine"
+      }
+    ],
+    "background": "AA is Alcoholics Anonymous; its twelve-step group model has been adapted for other addictions, including compulsive technology use."
+  },
+  {
+    "index": 96,
+    "speaker": "Host",
+    "english": "So this idea was a very controversial idea when I was working on this book. I talked a little bit about addiction. A lot of people really wanted to separate behavioral from substance addictions, and I've been more convinced now. There are a lot of people who need some help, and that's fine. That's not a failing. Your brain has gotten rewired in a severe way. You don't have to just try to fix this on your own.",
+    "bulgarian_reference": "Когато работех по книгата, тази идея беше много спорна. Писах малко за зависимостта. Много хора държаха да разграничат поведенческите зависимости от тези към вещества, но сега съм по-убеден. Има много хора, на които им трябва помощ, и това е нормално. Това не е провал. Просто мозъкът ти е бил сериозно пренастроен. Не е нужно да се опитваш да се оправиш сам.",
+    "grammar_notes": [
+      "„работех“ (imperfect: ongoing background, 'was working') vs „писах“ (aorist: a completed fact, 'I wrote').",
+      "„на които им трябва“: the dative is doubled (на които + им), very common in speech."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "спорен",
+        "en": "controversial, disputed",
+        "note": "from спор (argument)"
+      },
+      {
+        "bg": "държа да",
+        "en": "to insist on",
+        "note": "„държа да кажа“ = I insist on saying"
+      },
+      {
+        "bg": "разгранича / разграничавам",
+        "en": "to distinguish, to draw a line between",
+        "note": ""
+      },
+      {
+        "bg": "провал",
+        "en": "failure",
+        "note": "masculine"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 97,
+    "speaker": "Host",
+    "english": "The third practical suggestion I would put in the book, so in the practical suggestions part, I'd put landlining. I talk about it so much now. That would just be my table stakes in digital minimalism: your smartphone is plugged in in the kitchen when you're home. Just do that, and then we'll talk about everything else. Just do that as you start this book, and later in the book we'll get back to what you should do next.",
+    "bulgarian_reference": "Третото нещо, което бих сложил в книгата – в частта с практическите съвети – е „ландлайнингът“. Толкова често говоря за него напоследък. За мен това би било абсолютният минимум на дигиталния минимализъм: когато си вкъщи, смартфонът ти стои на зарядното в кухнята. Просто направи това и после ще говорим за всичко останало. Направи го още в началото на книгата, а по-нататък в нея ще се върнем към това какво да правиш след това.",
+    "grammar_notes": [
+      "„направи“ (perfective imperative: do it, once and for all) vs „да правиш“ (imperfective: what to be doing in general).",
+      "„ландлайнингът“: a new masculine loanword still takes the normal article -ът."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "ландлайнинг",
+        "en": "landlining",
+        "note": "Cal's coinage, no Bulgarian word; you could explain it as „телефонът като стационарен“"
+      },
+      {
+        "bg": "абсолютен минимум",
+        "en": "bare minimum, table stakes",
+        "note": ""
+      }
+    ],
+    "background": "'Landlining' is Cal's term for leaving your phone plugged in at home like an old landline, rather than carrying it around. 'Table stakes' is a poker term for the minimum you need to join the game."
+  },
+  {
+    "index": 98,
+    "speaker": "Host",
+    "english": "It's so simple. It has such an effect. It's something the whole family can do. And now you're helping your entire family, including, critically, your teenage kids, repair their relationship with their brain. So I think landlining would have a major position if I added a new chapter to the book.",
+    "bulgarian_reference": "Толкова е просто, а има такъв ефект. Цялото семейство може да го прави. И така помагаш на цялото си семейство – и най-вече на децата си тийнейджъри – да оправят отношенията със собствения си мозък. Затова мисля, че ландлайнингът би заел централно място, ако добавях нова глава към книгата.",
+    "grammar_notes": [
+      "„би заел…, ако добавях“: an unreal condition again: бих/би + participle in the result, ако + imperfect in the condition.",
+      "„помагам на“: помагам takes „на“ + person: помагам на семейството си."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "тийнейджър",
+        "en": "teenager",
+        "note": "loanword; plural тийнейджъри"
+      },
+      {
+        "bg": "отношения",
+        "en": "relationship, relations",
+        "note": "plural noun, used for one relationship too"
+      },
+      {
+        "bg": "заема място",
+        "en": "to take / occupy a place",
+        "note": "„централно място“ = a central place"
+      }
+    ],
+    "background": null
+  },
+  {
+    "index": 99,
+    "speaker": "Host",
+    "english": "So there we go. Can you be a digital minimalist in 2026? Yes, you can. But we have to keep evolving our suggestions and advice to keep up with modern technology.",
+    "bulgarian_reference": "Ето това е. Може ли да си дигитален минималист през 2026 г.? Да, може. Но трябва постоянно да развиваме съветите и препоръките си, за да сме в крак със съвременните технологии.",
+    "grammar_notes": [
+      "Years take „през“: през 2026 г. (read „през две хиляди двайсет и шеста година“), an ordinal number."
+    ],
+    "vocabulary_notes": [
+      {
+        "bg": "в крак с",
+        "en": "keeping pace with, up to date with",
+        "note": "idiom: „в крак с времето“"
+      },
+      {
+        "bg": "развия / развивам",
+        "en": "to develop, to evolve",
+        "note": "perfective / imperfective"
+      }
+    ],
+    "background": null
+  }
+]

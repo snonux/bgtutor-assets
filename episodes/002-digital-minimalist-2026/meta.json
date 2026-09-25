@@ -1,0 +1,29 @@
+{
+  "format_version": 1,
+  "title": "Deep Questions: Can I Be a Digital Minimalist in 2026?",
+  "topic": "Technology, habits and attention",
+  "description": "Cal Newport grades six reader strategies for digital minimalism from Reddit, then says what he would add to his book today: AI, getting help for tech addiction, and landlining.",
+  "difficulty": "B1",
+  "duration_minutes": 33,
+  "speakers": [
+    {
+      "label": "Host",
+      "name": "Cal Newport",
+      "role": "podcast host, computer science professor and author"
+    },
+    {
+      "label": "Cohost",
+      "name": "Jesse Skeen",
+      "role": "producer"
+    }
+  ],
+  "source": {
+    "episode": "Can I Be a Digital Minimalist in 2026? | Monday Advice (2026-06-29)",
+    "episode_url": "https://podscripts.co/podcasts/deep-questions-with-cal-newport/can-i-be-a-digital-minimalist-in-2026-monday-advice",
+    "note": "Main segment only (00:00 to 35:33), sponsor reads removed; the listener Q\u0026A after it is not included. Transcript from podscripts.co, speaker labels inferred.",
+    "podcast": "Deep Questions with Cal Newport"
+  },
+  "status": "ready",
+  "prepared_at": "2026-09-25",
+  "prepared_by": "Claude cloud session, following bgtutor/PREPARE.md"
+}
