@@ -3,7 +3,7 @@
   "title": "Fallthrough: A Record of One's Own (AT Protocol)",
   "topic": "Technology: AT Protocol, Bluesky and owning your data",
   "description": "Matthew Sanabria and Kris Brandow talk with Bailey Townsend about AT Protocol: running your own personal data server, identity, and apps like Tangled and Leaflet built on it.",
-  "difficulty": "B2",
+  "difficulty": "A2",
   "duration_minutes": 49,
   "speakers": [
     {
@@ -31,5 +31,5 @@
   },
   "status": "ready",
   "prepared_at": "2026-09-25",
-  "prepared_by": "Claude cloud session, following bgtutor/PREPARE.md"
+  "prepared_by": "Claude cloud session, following bgtutor/PREPARE.md; A2 rewrite 2026-09-25"
 }
