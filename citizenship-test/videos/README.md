@@ -2,24 +2,26 @@
 
 Each official sample test (in [official-samples/](../official-samples/), described in
 [official-materials.md](../official-materials.md))
-opens with a short prose text and five questions about it. These cartoons tell
-the story of each text in simple Bulgarian, with narration and on-screen
-captions, so you can hear and see the vocabulary before you sit the test.
+opens with a short prose text and five questions about it. These cartoons act
+out each text scene by scene: the narration reads the exam's own Bulgarian
+text, sentence by sentence, and the same words appear as captions, so you can
+hear, read and see the story at once.
 
 | Video | Reading text | Length |
 |---|---|---|
-| [variant-1-burgas.mp4](variant-1-burgas.mp4) | Бургас, „най-добрият град за живеене в България" 2012 | about 1:45 |
-| [variant-2-levski.mp4](variant-2-levski.mp4) | Васил Левски, Апостола на свободата | about 2:15 |
-| [variant-3-teteven.mp4](variant-3-teteven.mp4) | Тетевен, най-зеленият град на България | about 1:50 |
+| [variant-1-burgas.mp4](variant-1-burgas.mp4) | Бургас, „най-добрият град за живеене в България" 2012 | 2:10 |
+| [variant-2-levski.mp4](variant-2-levski.mp4) | Васил Левски, Апостола на свободата | 2:27 |
+| [variant-3-teteven.mp4](variant-3-teteven.mp4) | Тетевен, най-зеленият град на България | 2:15 |
 
 Every video has a matching `.srt` file with the captions, which a player such
 as VLC can show as subtitles.
 
-**How to use them:** watch the video, then read the original text in the
-sample test and answer questions 1–5. The narration retells the text in
-shorter sentences and does not quote it word for word, so the original is
-still worth reading: the test asks about its exact wording (for example
-„влизам в дирите" in variant 2 and the main verb tense in variant 3).
+**How to use them:** watch the video once with captions, once without, then
+answer questions 1–5 of that sample test. The voice spells out abbreviations
+(„2012 г." is read „2012 година", „120 км" as „120 километра"). Two small
+departures from the printed text: variant 1 reads out only the top three rows
+of its ranking table (all seven are on screen), and variant 2's caption fixes
+the printed typo „бъдещето въстание" to „бъдещото въстание".
 
 ## How they were made
 
