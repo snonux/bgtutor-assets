@@ -1,9 +1,9 @@
 # Official materials
 
-Links to everything the state publishes about the exam. The sample tests are
-linked, not copied: the ministry publishes them with no licence or terms of
-use, and this repository is public. Each sample PDF is two or three pages and
-ends with its answer key.
+Everything the state publishes about the exam. The three sample tests are
+copied into [official-samples/](official-samples/); each PDF is five pages and
+ends with its answer key. The ministry publishes them without a licence or
+terms of use.
 
 ## Sample tests (образци на тестове)
 
@@ -12,22 +12,23 @@ Published in 2013 by the then Център за контрол и оценка �
 described in the [guide](README.md#the-seven-question-types). Candidates in
 2025 report that the real papers follow the same layout but are harder.
 
-| Test | Reading text | Official link | Mirror |
+| Test | Reading text | Official link | Mirror (source of the local copy) |
 |---|---|---|---|
-| Вариант 1 | Бургас, „най-добрият град за живеене в България" 2012, with a ranking table | [variant_1.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_1.pdf) | [Sample-Test-1.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-1.pdf) |
-| Вариант 2 | Васил Левски | not confirmed at io.mon.bg (try [variant_2.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_2.pdf)) | [Sample-Test-2.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-2.pdf) |
-| Вариант 3 | Тетевен as a tourist destination | [variant_3.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_3.pdf) | [Sample-Test-3.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-3.pdf) |
+| [Вариант 1](official-samples/variant_1.pdf) | Бургас, „най-добрият град за живеене в България" 2012, with a ranking table | [variant_1.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_1.pdf) | [Sample-Test-1.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-1.pdf) |
+| [Вариант 2](official-samples/variant_2.pdf) | Васил Левски | not confirmed at io.mon.bg (try [variant_2.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_2.pdf)) | [Sample-Test-2.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-2.pdf) |
+| [Вариант 3](official-samples/variant_3.pdf) | Тетевен as a tourist destination | [variant_3.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_3.pdf) | [Sample-Test-3.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-3.pdf) |
 
 Scribd also has copies of variants 1 and 3
 ([1](https://www.scribd.com/document/773955714/),
 [3](https://www.scribd.com/document/773955777/)). No real past papers are
 published anywhere that this research found.
 
-**Getting local copies:** run `citizenship-test/fetch-official-samples.sh`
-from a machine with normal internet access. It saves the PDFs to
-`citizenship-test/official-samples/`, trying io.mon.bg first and the mirror
-second, and keeps only real PDFs. Commit the folder afterwards if you want the
-copies in the repository.
+**Where the local copies come from:** downloaded on 2026-10-03 from the
+bulgarian-citizenship.com mirror, because io.mon.bg answered 403. They carry the
+official header (МОН, Център за контрол и оценка на качеството на училищното
+образование) and their reading texts and answer keys match the copies read
+from io.mon.bg. To refresh them, run `citizenship-test/fetch-official-samples.sh`;
+it tries io.mon.bg first, then the mirror, and keeps only real PDFs.
 
 Instruction printed on every paper: „Изберете само един от предложените
 отговори и заградете с кръгче буквата пред него."
