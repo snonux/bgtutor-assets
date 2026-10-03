@@ -15,7 +15,7 @@ described in the [guide](README.md#the-seven-question-types). Candidates in
 | Test | Reading text | Official link | Mirror (source of the local copy) |
 |---|---|---|---|
 | [Вариант 1](official-samples/variant_1.pdf) | Бургас, „най-добрият град за живеене в България" 2012, with a ranking table | [variant_1.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_1.pdf) | [Sample-Test-1.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-1.pdf) |
-| [Вариант 2](official-samples/variant_2.pdf) | Васил Левски | not confirmed at io.mon.bg (try [variant_2.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_2.pdf)) | [Sample-Test-2.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-2.pdf) |
+| [Вариант 2](official-samples/variant_2.pdf) | Васил Левски | [variant_2.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_2.pdf) | [Sample-Test-2.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-2.pdf) |
 | [Вариант 3](official-samples/variant_3.pdf) | Тетевен as a tourist destination | [variant_3.pdf](https://io.mon.bg/sites/default/files/uploads/docs/2013-06/variant_3.pdf) | [Sample-Test-3.pdf](https://www.bulgarian-citizenship.com/wp-content/uploads/2023/11/Sample-Test-3.pdf) |
 
 Scribd also has copies of variants 1 and 3
@@ -23,12 +23,18 @@ Scribd also has copies of variants 1 and 3
 [3](https://www.scribd.com/document/773955777/)). No real past papers are
 published anywhere that this research found.
 
-**Where the local copies come from:** downloaded on 2026-10-03 from the
-bulgarian-citizenship.com mirror, because io.mon.bg answered 403. They carry the
-official header (МОН, Център за контрол и оценка на качеството на училищното
-образование) and their reading texts and answer keys match the copies read
-from io.mon.bg. To refresh them, run `citizenship-test/fetch-official-samples.sh`;
-it tries io.mon.bg first, then the mirror, and keeps only real PDFs.
+**Where the local copies come from:** all three PDFs were downloaded again on
+2026-10-03 directly from the io.mon.bg links above. Their SHA-256 hashes match
+the previously committed mirror copies. The temporary download script has
+been removed after use. The mirror links remain as fallback sources.
+
+Each PDF has a matching JSON file in `official-samples/`, containing the
+reading passage, the 20 questions and the official answer key for the MCP
+tutor. The original PDFs remain the source of truth. Extraction retained
+the question wording and options. In variant 3, answer 4's printed Cyrillic
+б was extracted as the digit 6; the JSON records Б after checking the rendered
+answer page. Official samples have no authored teaching explanations; the
+AI tutor explains them after marking against the key.
 
 Instruction printed on every paper: „Изберете само един от предложените
 отговори и заградете с кръгче буквата пред него."

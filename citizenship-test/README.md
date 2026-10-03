@@ -32,8 +32,7 @@ so aim to score 17+ on practice tests before you book.
 The three official sample tests are in
 [official-samples/](official-samples/) (variant_1.pdf to variant_3.pdf). Each
 is five pages and ends with its answer key. They are the ministry's 2013 papers,
-downloaded from the bulgarian-citizenship.com mirror because io.mon.bg refused
-the download; see [official-materials.md](official-materials.md).
+refreshed directly from io.mon.bg, with matching JSON question banks; see [official-materials.md](official-materials.md).
 
 ## 1. Who has to take it
 
@@ -216,3 +215,27 @@ automated access), so these details come from candidates and agencies and
 should be checked there before you apply: the 2026 exam dates, whether there
 is a fee, whether the retake wait is 3 or 4 months, the current venue, and
 what the post-2015 amendment to Наредба № 5 changed.
+
+## Live classes through bgtutor MCP
+
+Use `bgtutor serve --mode citizenship --data-dir /path/to/bgtutor-assets`.
+The server sends the teaching workflow to the connected voice AI; no LLM API
+is used by the server itself. The AI teaches, asks, listens and adapts, while
+MCP supplies content, exact grading and saved coverage.
+
+The [grammar chapters](study/grammar-rules/README.md) cover each rule in the
+grammar checklist, plus supporting rules used in exam questions and interview
+answers. Each rule has its own chapter with examples, one-at-a-time practice,
+private teacher answer notes, hints and independent-use checks. These are
+exam-preparation lessons, not an exhaustive reference to every Bulgarian
+linguistic phenomenon. [Interview rehearsal](study/interview.md) is separate
+from the written exam.
+
+Begin with a diagnostic, work through weak topics and all unseen sections,
+then sit fresh complete mocks with an external 60-minute timer. The tutor
+records mastery only after testing, and revisits mistakes. The MCP coverage
+plan includes every study document, the guide and candidate experiences;
+the sources list is a reference, not a memorisation task. The narrated
+[videos](videos/README.md) also provide timestamped listening drills through
+their captions. See the server's [CITIZENSHIP.md](https://github.com/snonux/bgtutor-mcp/blob/main/CITIZENSHIP.md)
+for the exact tool sequence and storage format.

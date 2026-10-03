@@ -178,7 +178,7 @@
    wrong for people).
 7. обувки is plural → ги.
 8. The subject takes the full article: Новият съсед (he = той).
-9. вежлив – учтив (polite). Б and В are look-alikes; А is an antonym pair.
+9. вежлив – учтив (polite). Б is a look-alike pair; А is an antonym pair.
 10. започвам – почвам (begin). В is a look-alike pair.
 11. враг – неприятел (enemy). Б is antonyms.
 12. широк – тесен. А and Г are synonyms, В look-alikes.
@@ -188,7 +188,7 @@
 16. Once in a while.
 17. собствени: the masculine is собствен (no н before -ен), so one н. See
     [study/spelling-punctuation.md](../study/spelling-punctuation.md#1-one-н-or-two-in-adjectives).
-18. писал: пиша has a vowel stem → -ал. донесъл, рекъл, могъл have consonant
-    stems.
+18. писал → писали keeps а; донесъл → донесли and рекъл → рекли lose ъ.
+    Learn the forms with each verb; see the participle chapter.
 19. радостна: the т of радост stays even though it is not heard.
 20. No comma before plain „да" after искам.

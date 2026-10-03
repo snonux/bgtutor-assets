@@ -33,11 +33,15 @@ sample 1). Nouns in -ние also have one н: улеснение, уважени
 
 ### 2. Past participles in -ъл or -ал
 
-When the verb's stem ends in a consonant (донеса, река, мога, пека, сека), the
-past active participle ends in **-ъл**: донесъл, рекъл, могъл, пекъл. When it
-ends in a vowel (казвам, млъкна, пиша → писал), it is **-ал / -ял**: казал,
-млъкнал, писал, стоял. The plural drops the ъ: донесли, рекли. „рекал" is
-wrong (official sample 3).
+Learn the participle with the verb, and check its plural: писал → писали
+keeps а, while рекъл → рекли and донесъл → донесли lose ъ. Other useful
+families: казал/казала/казали, млъкнал/млъкнала/млъкнали,
+могъл/могла/могли, пекъл/пекла/пекли, стоял/стояла/стояли.
+Do not predict the participle just from the present-tense stem.
+„рекал" is wrong in official sample 3.
+
+See the [Institute for Bulgarian Language's spelling explanation](https://ibl.bas.bg/pishi_pravilno/eh-tche-kovarno/)
+and [the live-class chapter](grammar-rules/26-participle-forms.md).
 
 ### 3. „Не" with verbs is written separately
 
@@ -67,7 +71,7 @@ soft consonant; otherwise **е**:
 At the end of a word or before a voiceless consonant, б, в, г, д, ж, з sound
 like п, ф, к, т, ш, с. Write the form the root has:
 
-град (гради), зъб (зъби), хляб (хлебен), сватба (сват), вторник (втори),
+град (градове), зъб (зъби), хляб (хлебен), сватба (сват), вторник (втори),
 нож (ножове), разказ (раз- + каз-), изток (из- + ток), сладко (сладък).
 
 ### 7. Silent consonants
@@ -124,13 +128,14 @@ sentences has a comma too many or too few.
 2. **Before subordinate clauses**: че, който / която / което / които,
    когато, защото, ако, докато, понеже, щом, където, въпреки че, макар че, **за
    да**. „Ставам рано, за да отида на работа."
-3. **Before contrasting conjunctions**: но, а, ала, ами, обаче (at the start).
+3. **Before contrasting conjunctions**: но, а, ала, ами.
    „Искам да дойда, но нямам време."
 4. **Between list items without a conjunction**: „Купих хляб, мляко, сирене и
    яйца."
-5. **Around inserted words and phrases**: например, разбира се, за съжаление,
-   според мен, обаче (in the middle), значи, напротив. „Утре, за съжаление,
-   няма да дойда."
+5. **Around certain inserted words and phrases**: разбира се, за съжаление,
+   напротив. „Утре, за съжаление, няма да дойда." Do not automatically
+   enclose например, обаче or според мен in commas. For this distinction see
+   [the Institute for Bulgarian Language](https://ibl.bas.bg/pishi_pravilno/spored-men-naistina-zapetaite-sa-vazhni/).
 6. **Around an apposition**: „Иван, моят съсед, работи в банка."
 7. **Before a repeated conjunction**: „И Мария, и Петър дойдоха." „Нито пие,
    нито пуши."
@@ -144,3 +149,7 @@ sentences has a comma too many or too few.
 3. **Between subject and verb**: „Новият ни съсед работи в банка."
 4. **Before „че", „който" etc. when they come first**: „Че е прав, знам."
    (the comma goes after the clause).
+
+A comma rule depends on the whole sentence, not only a keyword. Qualifiers
+such as само can suppress the ordinary comma before a subordinate clause:
+„Ще дойда само ако имам време.“ See [the Institute for Bulgarian Language](https://ibl.bas.bg/pishi_pravilno/ubiytsi-na-zapetai/).
