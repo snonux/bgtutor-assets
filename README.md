@@ -16,6 +16,13 @@ were made by following `bgtutor/PREPARE.md` there.
 The English text comes from the original podcasts and belongs to their
 creators. It is kept here for personal study.
 
+## Citizenship test
+
+`citizenship-test/` is a guide to the Bulgarian language exam for citizenship
+by naturalisation: how the exam works, what candidates report, study lists,
+and three original practice tests. Start with
+[citizenship-test/README.md](citizenship-test/README.md).
+
 ## Adding an episode
 
 Prepare it in a totalrecall checkout (`bgtutor/data/episodes/<id>/`), run
