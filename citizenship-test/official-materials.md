@@ -23,6 +23,12 @@ Scribd also has copies of variants 1 and 3
 [3](https://www.scribd.com/document/773955777/)). No real past papers are
 published anywhere that this research found.
 
+**Getting local copies:** run `citizenship-test/fetch-official-samples.sh`
+from a machine with normal internet access. It saves the PDFs to
+`citizenship-test/official-samples/`, trying io.mon.bg first and the mirror
+second, and keeps only real PDFs. Commit the folder afterwards if you want the
+copies in the repository.
+
 Instruction printed on every paper: „Изберете само един от предложените
 отговори и заградете с кръгче буквата пред него."
 
