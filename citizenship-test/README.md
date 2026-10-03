@@ -25,14 +25,15 @@ so aim to score 17+ on practice tests before you book.
 | [study/synonyms-antonyms.md](study/synonyms-antonyms.md) | Synonym and antonym pairs and the traps used, for questions 9–14 |
 | [study/spelling-punctuation.md](study/spelling-punctuation.md) | The spelling and comma rules the exam tests, for questions 17–20 |
 | [study/grammar-checklist.md](study/grammar-checklist.md) | Grammar for the gap-fill questions 6–8 |
+| [official-samples/](official-samples/) | The three official sample tests (PDF, with answer keys) |
 | [practice/](practice/) | Three original practice tests in the exam format, with answers explained |
 | [sources.md](sources.md) | Every source used, with dates |
 
-The official sample tests are not copied here. The ministry publishes them
-without any licence, and this repository is public, so the guide links to them
-instead. Download them from the links in
-[official-materials.md](official-materials.md); they are short PDFs and each
-one ends with its answer key.
+The three official sample tests are in
+[official-samples/](official-samples/) (variant_1.pdf to variant_3.pdf). Each
+is five pages and ends with its answer key. They are the ministry's 2013 papers,
+downloaded from the bulgarian-citizenship.com mirror because io.mon.bg refused
+the download; see [official-materials.md](official-materials.md).
 
 ## 1. Who has to take it
 
